@@ -1,0 +1,68 @@
+@prefix skos:      <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct:       <http://purl.org/dc/terms/> .
+@prefix rdfs:      <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vann:      <http://purl.org/vocab/vann/> .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus>
+   a skos:ConceptScheme ;
+   dct:modified "2018-11-08" ;
+   skos:definition "Informatie over de status van het document"@nl ;
+   skos:prefLabel "StandaardStatus"@nl .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling>
+   a skos:Concept ;
+   skos:prefLabel "Ontwerpdocument (in ontwikkeling)"@nl ;
+   skos:definition "Dit document werd gepubliceerd door de werkgroep {naam van werkgroep} als Ontwerpdocument. Dit impliceert dat de standaard die in dit document beschreven wordt in ontwikkeling is. Bijgevolg kan dit document op elk moment aangepast, vervangen of achterhaald worden. 
+Dit document is bedoeld om uit te groeien tot een standaard in het beschreven domein."@nl ;
+   vann:usageNote "Ontwerpdocumenten kunnen gepubliceerd worden op test.data.vlaanderen.be en indien reeds enige stabiliteit, op data.vlaanderen.be"@nl ;
+   skos:notation "OntwerpdocumentInOntwikkeling"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/Kandidaat-standaard>
+   a skos:Concept ;
+   skos:prefLabel "Kandidaat-standaard"@nl ;
+   skos:definition "Op {publicatiedatum} werd dit document als Kandidaat-standaard gepubliceerd door de werkgroep {naam van werkgroep} en voorgelegd aan het stuurorgaan Vlaams Informatie- en ICT-beleid. Vanaf deze datum startte een 6 maanden durende evaluatieperiode van deze Kandidaat-standaard. Indien de evaluatie positief beoordeeld wordt door het stuurorgaan op basis van een aantal referentie implementaties en het behandelen van eventuele feedback wordt dit document gepromoot tot Standaard in het beschreven domein."@nl ;
+   vann:usageNote "Kandidaat-standaard kunnen gepubliceerd worden op test.data.vlaanderen.be en moeten op data.vlaanderen.be gepubliceerd worden van zodra de publieke reviewperiode van start gaat."@nl ;
+   skos:notation "Kandidaat-standaard"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/Standaard>
+   a skos:Concept ;
+   skos:prefLabel "Standaard"@nl ;
+   skos:definition "Op {publicatiedatum} werd dit document als Standaard gepubliceerd door de werkgroep {naam van werkgroep}, bekrachtigd door het stuurorgaan Vlaams Informatie- en ICT-beleid.
+Deze standaard heeft het statuut van ‘{naam van statuut}’. Meer informatie over de implicaties van dit statuut zijn terug te vinden in het standaardenregister."@nl ;
+   vann:usageNote "Standaarden kunnen gepubliceerd worden op test.data.vlaanderen.be en moeten op data.vlaanderen.be gepubliceerd worden kort na de erkenning als Standaard door de werkgroep datastandaarden."@nl ;
+   skos:notation "Standaard"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInRevisie>
+   a skos:Concept ;
+   skos:prefLabel "Ontwerpdocument (in revisie)"@nl ;
+   skos:definition "Dit document werd gepubliceerd door de werkgroep {naam van werkgroep} als Ontwerpdocument. De standaard die in dit document beschreven wordt is een revisie van {naam en link naar laatste versie Standaard}. Dit document kan op elk moment aangepast, vervangen of achterhaald worden."@nl ;
+   vann:usageNote "Ontwerpdocumenten voor standaarden in revisie moeten gepubliceerd worden op test.data.vlaanderen.be, op data.vlaanderen.be blijft de erkende versie als 'Standaard' de laatste versie, eventueel met een opmerking en link naar de test variant."@nl ;
+   skos:notation "OntwerpdocumentInRevisie"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/KandidaatGereviseerdeStandaard>
+   a skos:Concept ;
+   skos:prefLabel "Kandidaat Gereviseerde Standaard"@nl ;
+   skos:definition "Op {publicatiedatum} werd dit document als Kandidaat Gereviseerde Standaard gepubliceerd door de werkgroep {naam van werkgroep} en voorgelegd aan het stuurorgaan Vlaams Informatie- en ICT-beleid. Vanaf deze datum startte een 6 maanden durende evaluatieperiode van deze als Kandidaat Gereviseerde Standaard. Na deze evaluatieperiode wordt dit document gepromoot tot Standaard in het beschreven domein waarbij het de vorige versie van de Standaard vervangt."@nl ;
+   vann:usageNote "Kandidaat gereviseerde standaarden kunnen gepubliceerd worden op test.data.vlaanderen.be en moeten op data.vlaanderen.be gepubliceerd worden van zodra de publieke reviewperiode van start gaat."@nl ;
+   skos:notation "KandidaatGereviseerdeStandaard"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/HerroepenStandaard>
+   a skos:Concept ;
+   skos:prefLabel "Herroepen Standaard"@nl ;
+   skos:definition "Op {publicatiedatum} werd dit document herroepen als standaard door het stuurorgaan Vlaams Informatie- en ICT-beleid en goedgekeurd door de Vlaamse Regering. Bijgevolg heeft dit document niet langer een officieel statuut."@nl ;
+   vann:usageNote "Publicatie niet verplicht"@nl ;
+   skos:notation "HerroepenStandaard"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
+
+
