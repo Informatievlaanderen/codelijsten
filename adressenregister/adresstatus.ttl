@@ -1,0 +1,28 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.vlaanderen.be/id/conceptscheme/adresstatus>
+    a skos:Conceptscheme ;
+    skos:definition "De statussen welke een adres in het adressenregister kan hebben" .
+
+<https://data.vlaanderen.be/id/concept/adresstatus/gehistoreerd>
+    a skos:Concept ;
+    skos:definition "Het adres werd formeel opgeheven door de gemeenteraad." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/adresstatus> ;
+    skos:prefLabel "gehistoreerd" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/adresstatus> .
+
+<https://data.vlaanderen.be/id/concept/adresstatus/inGebruik>
+    a skos:Concept ;
+    skos:definition "Het adres werd formeel goedgekeurd door de gemeenteraad en/of wordt actief gebruikt voor adressering." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/adresstatus> ;
+    skos:prefLabel "in gebruik" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/adresstatus> .
+
+<https://data.vlaanderen.be/id/concept/adresstatus/voorgesteld>
+    a skos:Concept ;
+    skos:definition "Het adres werd voorgesteld maar nog niet goedgekeurd door de gemeenteraad." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/adresstatus> ;
+    skos:prefLabel "voorgesteld" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/adresstatus> .
+
