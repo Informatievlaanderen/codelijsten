@@ -9,7 +9,7 @@
    skos:definition "Informatie over de status van het document"@nl ;
    skos:prefLabel "StandaardStatus"@nl .
 
-<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling>
+<https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling>
    a skos:Concept ;
    skos:prefLabel "Ontwerpdocument (in ontwikkeling)"@nl ;
    skos:definition "Dit document werd gepubliceerd door de werkgroep {naam van werkgroep} als Ontwerpdocument. Dit impliceert dat de standaard die in dit document beschreven wordt in ontwikkeling is. Bijgevolg kan dit document op elk moment aangepast, vervangen of achterhaald worden. 
@@ -19,7 +19,7 @@ Dit document is bedoeld om uit te groeien tot een standaard in het beschreven do
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
 
-<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/Kandidaat-standaard>
+<https://data.vlaanderen.be/id/concept/StandaardStatus/Kandidaat-standaard>
    a skos:Concept ;
    skos:prefLabel "Kandidaat-standaard"@nl ;
    skos:definition "Op {publicatiedatum} werd dit document als Kandidaat-standaard gepubliceerd door de werkgroep {naam van werkgroep} en voorgelegd aan het stuurorgaan Vlaams Informatie- en ICT-beleid. Vanaf deze datum startte een 6 maanden durende evaluatieperiode van deze Kandidaat-standaard. Indien de evaluatie positief beoordeeld wordt door het stuurorgaan op basis van een aantal referentie implementaties en het behandelen van eventuele feedback wordt dit document gepromoot tot Standaard in het beschreven domein."@nl ;
@@ -28,7 +28,7 @@ Dit document is bedoeld om uit te groeien tot een standaard in het beschreven do
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
 
-<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/Standaard>
+<https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard>
    a skos:Concept ;
    skos:prefLabel "Standaard"@nl ;
    skos:definition "Op {publicatiedatum} werd dit document als Standaard gepubliceerd door de werkgroep {naam van werkgroep}, bekrachtigd door het stuurorgaan Vlaams Informatie- en ICT-beleid.
@@ -38,7 +38,7 @@ Deze standaard heeft het statuut van ‘{naam van statuut}’. Meer informatie o
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
 
-<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInRevisie>
+<https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInRevisie>
    a skos:Concept ;
    skos:prefLabel "Ontwerpdocument (in revisie)"@nl ;
    skos:definition "Dit document werd gepubliceerd door de werkgroep {naam van werkgroep} als Ontwerpdocument. De standaard die in dit document beschreven wordt is een revisie van {naam en link naar laatste versie Standaard}. Dit document kan op elk moment aangepast, vervangen of achterhaald worden."@nl ;
@@ -47,7 +47,7 @@ Deze standaard heeft het statuut van ‘{naam van statuut}’. Meer informatie o
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
 
-<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/KandidaatGereviseerdeStandaard>
+<https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatGereviseerdeStandaard>
    a skos:Concept ;
    skos:prefLabel "Kandidaat Gereviseerde Standaard"@nl ;
    skos:definition "Op {publicatiedatum} werd dit document als Kandidaat Gereviseerde Standaard gepubliceerd door de werkgroep {naam van werkgroep} en voorgelegd aan het stuurorgaan Vlaams Informatie- en ICT-beleid. Vanaf deze datum startte een 6 maanden durende evaluatieperiode van deze als Kandidaat Gereviseerde Standaard. Na deze evaluatieperiode wordt dit document gepromoot tot Standaard in het beschreven domein waarbij het de vorige versie van de Standaard vervangt."@nl ;
@@ -56,7 +56,7 @@ Deze standaard heeft het statuut van ‘{naam van statuut}’. Meer informatie o
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
 
-<https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/HerroepenStandaard>
+<https://data.vlaanderen.be/id/concept/StandaardStatus/HerroepenStandaard>
    a skos:Concept ;
    skos:prefLabel "Herroepen Standaard"@nl ;
    skos:definition "Op {publicatiedatum} werd dit document herroepen als standaard door het stuurorgaan Vlaams Informatie- en ICT-beleid en goedgekeurd door de Vlaamse Regering. Bijgevolg heeft dit document niet langer een officieel statuut."@nl ;
