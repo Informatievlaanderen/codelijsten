@@ -3,6 +3,7 @@
 
 <http://data.vlaanderen.be/id/conceptscheme/adresstatus>
     a skos:Conceptscheme ;
+    skos:prefLabel "conceptscheme adresstatus" ;
     skos:definition "De statussen welke een adres in het adressenregister kan hebben" .
 
 <https://data.vlaanderen.be/id/concept/adresstatus/gehistoreerd>

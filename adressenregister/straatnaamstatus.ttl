@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+
+<http://data.vlaanderen.be/id/conceptscheme/straatnaamstatus>
+    a skos:Conceptscheme ;
+    skos:prefLabel "conceptcheme straatnaamstatus"
+    skos:definition "de status een straatnaam kan hebben in het addressenregister" .
+
+
+<https://data.vlaanderen.be/id/concept/straatnaamstatus/gehistoreerd>
+    a skos:Concept ;
+    skos:definition "De straatnaam werd formeel opgeheven door de gemeenteraad." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> ;
+    skos:note "-" ;
+    skos:prefLabel "gehistoreerd" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> .
+
+<https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>
+    a skos:Concept ;
+    skos:definition "De straatnaam werd formeel goedgekeurd door de gemeenteraad." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> ;
+    skos:note "-" ;
+    skos:prefLabel "in gebruik" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> .
+
+<https://data.vlaanderen.be/id/concept/straatnaamstatus/voorgesteld>
+    a skos:Concept ;
+    skos:definition "De straatnaam werd voorgesteld maar nog niet goedgekeurd door de gemeenteraad." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> ;
+    skos:note "Het voorstel komt typisch van de straatnamencommissie of cultuurraad." ;
+    skos:prefLabel "voorgesteld" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> .
+
