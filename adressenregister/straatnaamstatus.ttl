@@ -4,7 +4,7 @@
 
 <http://data.vlaanderen.be/id/conceptscheme/straatnaamstatus>
     a skos:Conceptscheme ;
-    skos:prefLabel "conceptcheme straatnaamstatus"
+    skos:prefLabel "conceptcheme straatnaamstatus";
     skos:definition "de status een straatnaam kan hebben in het addressenregister" .
 
 
