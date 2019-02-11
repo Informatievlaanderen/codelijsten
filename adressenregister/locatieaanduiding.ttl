@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 
-<http://data.vlaanderen.be/id/conceptscheme/locatieaanduiding>
+<https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding>
     a skos:Conceptscheme ;
     skos:definition "" .
 

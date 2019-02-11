@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 
-<http://data.vlaanderen.be/id/conceptscheme/verticalereferentie>
+<https://data.vlaanderen.be/id/conceptscheme/verticalereferentie>
     a skos:Conceptscheme ;
     skos:definition "" .
 
