@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+
+<http://data.vlaanderen.be/id/conceptscheme/horizontalereferentie>
+    a skos:Conceptscheme ;
+    skos:definition "" .
+
+<https://data.vlaanderen.be/id/concept/horizontalereferentie/bovengrondseOmhulling>
+    a skos:Concept ;
+    skos:definition "De co" .
+
+<https://data.vlaanderen.be/id/concept/horizontalereferentie/dakrand>
+    a skos:Concept ;
+    skos:definition "De co" .
+
+<https://data.vlaanderen.be/id/concept/horizontalereferentie/gecombineerd>
+    a skos:Concept ;
+    skos:definition "De co" .
+
+<https://data.vlaanderen.be/id/concept/horizontalereferentie/voetafdruk>
+    a skos:Concept ;
+    skos:definition "De co" .
+

@@ -1,0 +1,97 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.vlaanderen.be/id/conceptscheme/geometriespecificatie>
+    a skos:Conceptscheme ;
+    skos:definition "" .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/gebouw>
+    a skos:Concept ;
+    skos:definition "De positie duidt een gebouw aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "gebouw" ;
+    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/building> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/gebouweenheid>
+    a skos:Concept ;
+    skos:definition "De positie duidt een gebouweenheid aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "gebouweenheid" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/gemeente>
+    a skos:Concept ;
+    skos:definition "De positie duidt een gemeente aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "gemeente" ;
+    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/adminUnit5thOrder> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/ingang>
+    a skos:Concept ;
+    skos:definition "De positie duidt een gebouwingang aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "ingang" ;
+    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/entrance> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/ligplaats>
+    a skos:Concept ;
+    skos:definition "De positie duidt een ligplaats aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "ligplaats" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/lot>
+    a skos:Concept ;
+    skos:definition "De positie duidt een lot aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "lot" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/perceel>
+    a skos:Concept ;
+    skos:definition "De positie duidt een perceel aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "perceel" ;
+    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/parcel> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/standplaats>
+    a skos:Concept ;
+    skos:definition "De positie duidt een standplaats aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "standplaats" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/straat>
+    a skos:Concept ;
+    skos:definition "De positie duidt een straat aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "straat" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
+<https://data.vlaanderen.be/id/concept/geometriespecificatie/wegsegment>
+    a skos:Concept ;
+    skos:definition "De positie duidt een wegsegment aan." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
+    skos:note "-" ;
+    skos:prefLabel "wegsegment" ;
+    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/segment> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+

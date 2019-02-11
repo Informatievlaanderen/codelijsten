@@ -1,0 +1,34 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.vlaanderen.be/id/conceptscheme/gemeentestatus>
+    a skos:Conceptscheme ;
+    skos:definition "Het gemeentenaamstatus conceptscheme instantieert de INSPIRE gemeentenaamstatus codelijst." .
+
+<https://data.vlaanderen.be/id/concept/gemeentestatus/gehistoreerd>
+    a skos:Concept ;
+    skos:definition "De gemeente werd opgeheven." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> ;
+    skos:note "-" ;
+    skos:prefLabel "gehistoreerd" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> .
+
+<https://data.vlaanderen.be/id/concept/gemeentestatus/inGebruik>
+    a skos:Concept ;
+    skos:definition "De gemeente werd officieel bekrachtigd." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> ;
+    skos:note "-" ;
+    skos:prefLabel "in gebruik" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> .
+
+<https://data.vlaanderen.be/id/concept/gemeentestatus/voorgesteld>
+    a skos:Concept ;
+    skos:definition "De gemeente werd voorgesteld." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> ;
+    skos:note "-" ;
+    skos:prefLabel "voorgesteld" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> .
+

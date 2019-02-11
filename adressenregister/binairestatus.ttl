@@ -1,0 +1,23 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.vlaanderen.be/id/conceptscheme/binairestatus>
+    a skos:Conceptscheme ;
+    skos:definition "" .
+
+<https://data.vlaanderen.be/id/concept/binairestatus/gehistoreerd>
+    a skos:Concept ;
+    skos:definition "Het object is niet meer actueel." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/binairestatus> ;
+    skos:note "-" ;
+    skos:prefLabel "gehistoreerd" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/binairestatus> .
+
+<https://data.vlaanderen.be/id/concept/binairestatus/gerealiseerd>
+    a skos:Concept ;
+    skos:definition "Het object is actueel." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/binairestatus> ;
+    skos:note "-" ;
+    skos:prefLabel "gerealiseerd" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/binairestatus> .
+
