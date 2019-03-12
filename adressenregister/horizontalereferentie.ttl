@@ -3,7 +3,7 @@
 
 
 <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie>
-    a skos:Conceptscheme ;
+    a skos:ConceptScheme ;
     skos:definition "" .
 
 <https://data.vlaanderen.be/id/concept/horizontalereferentie/bovengrondseOmhulling>

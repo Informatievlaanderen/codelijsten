@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://data.vlaanderen.be/id/conceptscheme/geometriemethode>
-    a skos:Conceptscheme ;
+    a skos:ConceptScheme ;
     skos:prefLabel "conceptschem geometriemethode
     skos:definition "" .
 

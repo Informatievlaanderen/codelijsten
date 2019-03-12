@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie>
-    a skos:Conceptscheme ;
+    a skos:ConceptScheme ;
     skos:definition "" .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/gebouw>

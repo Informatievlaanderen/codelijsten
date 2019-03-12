@@ -2,7 +2,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://data.vlaanderen.be/id/conceptscheme/adresstatus>
-    a skos:Conceptscheme ;
+    a skos:ConceptScheme ;
     skos:prefLabel "conceptscheme adresstatus" ;
     skos:definition "De statussen welke een adres in het adressenregister kan hebben" .
 

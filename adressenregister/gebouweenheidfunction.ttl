@@ -3,7 +3,7 @@
 
 
 <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie>
-    a skos:Conceptscheme ;
+    a skos:ConceptScheme ;
     skos:prefLabel "conceptscheme gebouweenheidfunctie";
     skos:definition "" .
 
