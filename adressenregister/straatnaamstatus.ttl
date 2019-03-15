@@ -14,6 +14,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> ;
     skos:note "-" ;
     skos:prefLabel "gehistoreerd" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/StatusValue/retired> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> .
 
 <https://data.vlaanderen.be/id/concept/straatnaamstatus/inGebruik>
@@ -22,6 +23,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> ;
     skos:note "-" ;
     skos:prefLabel "in gebruik" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/StatusValue/current> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> .
 
 <https://data.vlaanderen.be/id/concept/straatnaamstatus/voorgesteld>
@@ -30,5 +32,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> ;
     skos:note "Het voorstel komt typisch van de straatnamencommissie of cultuurraad." ;
     skos:prefLabel "voorgesteld" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/StatusValue/proposed> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/straatnaamstatus> .
 

@@ -16,9 +16,14 @@
     skos:prefLabel "dagrecreatie, met inbegrip van sport" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
-<https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/dancingRestaurantCaf>
+<https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/dancingRestaurantCafé>
     a skos:Concept ;
-    skos:definition "De gebouweenheid is een dancing, restaurant of caf" .
+    skos:definition "De gebouweenheid is een dancing, restaurant of café." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
+    skos:note "-" ;
+    skos:prefLabel "dancing, restaurant of café" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/commerceAndServices> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/detailhandel>
     a skos:Concept ;
@@ -54,7 +59,7 @@
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/kamerwoning>
     a skos:Concept ;
-    skos:definition "De gebouweenheid wordt gebruikt voor het verblijf van één of meerdere personen. Van de basisvoorzieningen 'Keuken', 'Bad/douche' en 'Toilet' ontbreekt er minstens één. Deze is dan wel als gemeenschappelijke voorziening aanwezig." ;
+    skos:definition "De gebouweenheid wordt gebruikt voor het verblijf van één of meerdere personen. Van de basisvoorzieningen 'Keuken', 'Bad/douche' en 'Toilet' ontbreekt er minstens één. Nota: deze is dan wel als gemeenschappelijke voorziening aanwezig." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "kamerwoning" ;

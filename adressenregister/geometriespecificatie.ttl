@@ -16,7 +16,7 @@
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/gebouweenheid>
     a skos:Concept ;
-    skos:definition "De positie duidt een gebouweenheid aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van de gebouweenheid." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "gebouweenheid" ;
@@ -25,25 +25,25 @@
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/gemeente>
     a skos:Concept ;
-    skos:definition "De positie duidt een gemeente aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van de gemeente." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "gemeente" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/adminUnit5thOrder> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/adminUnit5thOrder> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/ingang>
     a skos:Concept ;
-    skos:definition "De positie duidt een gebouwingang aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van de gebouwingang." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "ingang" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/entrance> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/entrance> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/ligplaats>
     a skos:Concept ;
-    skos:definition "De positie duidt een ligplaats aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van de ligplaats." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "ligplaats" ;
@@ -52,7 +52,7 @@
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/lot>
     a skos:Concept ;
-    skos:definition "De positie duidt een lot aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van het lot." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "lot" ;
@@ -61,16 +61,16 @@
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/perceel>
     a skos:Concept ;
-    skos:definition "De positie duidt een perceel aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van het perceel." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "perceel" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/parcel> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/parcel> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/standplaats>
     a skos:Concept ;
-    skos:definition "De positie duidt een standplaats aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van de standplaats." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "standplaats" ;

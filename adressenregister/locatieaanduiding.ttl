@@ -12,7 +12,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
     skos:note "-" ;
     skos:prefLabel "deur" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/unitIdentifier> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/unitIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .
 
 <https://data.vlaanderen.be/id/concept/locatieaanduiding/trap>
@@ -21,7 +21,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
     skos:note "-" ;
     skos:prefLabel "trap" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/staircaseIdentifier> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/staircaseIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .
 
 <https://data.vlaanderen.be/id/concept/locatieaanduiding/verdieping>
@@ -30,7 +30,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
     skos:note "-" ;
     skos:prefLabel "verdieping" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/floorIdentifier> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/floorIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .
 
 <https://data.vlaanderen.be/id/concept/locatieaanduiding/vleugel>
@@ -39,6 +39,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
     skos:note "-" ;
     skos:prefLabel "vleugel" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/entranceDoorIdentifier> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/entranceDoorIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .
 

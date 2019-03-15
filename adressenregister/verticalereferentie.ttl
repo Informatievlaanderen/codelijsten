@@ -12,7 +12,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
     skos:note "-" ;
     skos:prefLabel "bodem" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalGround> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalGround> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
 
 <https://data.vlaanderen.be/id/concept/verticalereferentie/dak>
@@ -21,7 +21,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
     skos:note "-" ;
     skos:prefLabel "dak" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalRoof> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalRoof> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
 
 <https://data.vlaanderen.be/id/concept/verticalereferentie/dakrand>
@@ -30,7 +30,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
     skos:note "-" ;
     skos:prefLabel "dakrand" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalRoofEdge> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalRoofEdge> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
 
 <https://data.vlaanderen.be/id/concept/verticalereferentie/hoogstePuntVanGebouw>
@@ -39,7 +39,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
     skos:note "-" ;
     skos:prefLabel "hoogste punt van gebouw" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/ElevationReferenceValue/highestPoint> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/highestPoint> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
 
 <https://data.vlaanderen.be/id/concept/verticalereferentie/topVanGebouw>
@@ -48,6 +48,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
     skos:note "-" ;
     skos:prefLabel "top van gebouw" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/ElevationReferenceValue/topOfConstruction> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/topOfConstruction> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
 
