@@ -13,7 +13,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "gebouweenheid" ;
-    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/gemeente>
@@ -40,7 +39,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "ligplaats" ;
-    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/lot>
@@ -49,7 +47,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "lot" ;
-    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/perceel>
@@ -67,7 +64,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "standplaats" ;
-    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/wegsegment>
@@ -78,7 +74,6 @@
     skos:prefLabel "wegsegment" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/segment> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
-    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 
