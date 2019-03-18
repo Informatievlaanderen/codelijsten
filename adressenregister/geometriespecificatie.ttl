@@ -70,10 +70,8 @@
     a skos:Concept ;
     skos:definition "De adrespositie werd bepaald op basis van het wegsegment." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
-    
     skos:prefLabel "wegsegment" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/segment> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 
