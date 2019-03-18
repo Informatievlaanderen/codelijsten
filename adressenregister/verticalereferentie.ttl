@@ -11,7 +11,7 @@
     a skos:Concept ;
     skos:definition "De hoogte is gemeten op bodemniveau, om het even waar tussen de laagste en de hoogste bodempunten van het gebouw." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "bodem" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalGround> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
@@ -20,7 +20,7 @@
     a skos:Concept ;
     skos:definition "De hoogte is gemeten op dakniveau, om het even waar tussen het laagste dakrandniveau en de top van het gebouw." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "dak" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalRoof> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
@@ -29,7 +29,7 @@
     a skos:Concept ;
     skos:definition "De hoogte is gemeten op dakrandniveau, ergens tussen de laagste en de hoogste dakrandniveaus van het gebouw." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "dakrand" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/generalRoofEdge> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
@@ -38,7 +38,7 @@
     a skos:Concept ;
     skos:definition "De hoogte is gemeten op het hoogste punt van het gebouw, inclusief de installaties, zoals schoorstenen en antennes." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "hoogste punt van gebouw" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/highestPoint> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .
@@ -47,7 +47,7 @@
     a skos:Concept ;
     skos:definition "De hoogte is gemeten op de top van het gebouw." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "top van gebouw" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ElevationReferenceValue/topOfConstruction> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie> .

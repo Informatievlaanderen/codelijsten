@@ -11,7 +11,7 @@
     a skos:Concept ;
     skos:definition "De positie werd bepaald door de beheerder en manueel aangeduid." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriemethode> ;
-    skos:note "-" ;
+    
     skos:prefLabel "aangeduid door beheerder" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometryMethodValue/byAdministrator> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriemethode> .
@@ -20,7 +20,7 @@
     a skos:Concept ;
     skos:definition "De positie werd automatisch afgeleid van een gekoppeld ruimtelijk object." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriemethode> ;
-    skos:note "-" ;
+    
     skos:prefLabel "afgeleid van object" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometryMethodValue/fromFeature> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriemethode> .
@@ -29,7 +29,7 @@
     a skos:Concept ;
     skos:definition "De positie werd - in afwezigheid van een gekoppeld ruimtelijk object - op een andere manier berekend." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriemethode> ;
-    skos:note "-" ;
+    
     skos:prefLabel "geïnterpoleerd" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriemethode> .
 

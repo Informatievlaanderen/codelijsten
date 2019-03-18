@@ -10,7 +10,7 @@
     a skos:Concept ;
     skos:definition "Het object is niet meer actueel." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/binairestatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "gehistoreerd" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/binairestatus> .
 
@@ -18,7 +18,7 @@
     a skos:Concept ;
     skos:definition "Het object is actueel." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/binairestatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "gerealiseerd" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/binairestatus> .
 

@@ -11,7 +11,7 @@
     a skos:Concept ;
     skos:definition "Aanduiding van een toegangsdeur tot een gebouweenheid." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
-    skos:note "-" ;
+    
     skos:prefLabel "deur" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/unitIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .
@@ -20,7 +20,7 @@
     a skos:Concept ;
     skos:definition "Aanduiding van een trap, normaliter binnen een gebouw." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
-    skos:note "-" ;
+    
     skos:prefLabel "trap" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/staircaseIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .
@@ -29,7 +29,7 @@
     a skos:Concept ;
     skos:definition "Aanduiding van een verdieping of niveau binnen een gebouw." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
-    skos:note "-" ;
+    
     skos:prefLabel "verdieping" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/floorIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .
@@ -38,7 +38,7 @@
     a skos:Concept ;
     skos:definition "Aanduiding van een gebouwingang of vleugel." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> ;
-    skos:note "-" ;
+    
     skos:prefLabel "vleugel" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/LocatorDesignatorTypeValue/entranceDoorIdentifier> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding> .

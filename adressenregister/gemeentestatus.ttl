@@ -10,7 +10,7 @@
     a skos:Concept ;
     skos:definition "De gemeente werd opgeheven." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "gehistoreerd" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> .
 
@@ -18,7 +18,7 @@
     a skos:Concept ;
     skos:definition "De gemeente werd officieel bekrachtigd." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "in gebruik" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> .
 
@@ -26,7 +26,7 @@
     a skos:Concept ;
     skos:definition "De gemeente werd voorgesteld." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "voorgesteld" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus> .
 

@@ -11,7 +11,7 @@
     a skos:Concept ;
     skos:definition "De coördinaten van het gebouw stellen de bovengrondse omhulling van het gebouw voor, d.w.z. de maximale omvang van het gebouw boven de grond." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "bovengrondse omhulling" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/HorizontalGeometryReferenceValue/aboveGroundEnvelope> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> .
@@ -20,7 +20,7 @@
     a skos:Concept ;
     skos:definition "De coördinaten van het gebouw stellen de dakranden van het gebouw voor." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "dakrand" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/HorizontalGeometryReferenceValue/roofEdge> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> .
@@ -29,7 +29,7 @@
     a skos:Concept ;
     skos:definition "De coördinaten van het gebouw zijn verkregen uit de combinatie van de geometrieën van zijn gebouwonderdelen, die verschillende horizontale referenties kunnen hebben." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "gecombineerd" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/HorizontalGeometryReferenceValue/combined> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> .
@@ -38,7 +38,7 @@
     a skos:Concept ;
     skos:definition "De coördinaten van het gebouw stellen de voetafdruk van het gebouw voor, d.w.z. zijn omvang op maaiveldhoogte." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> ;
-    skos:note "-" ;
+    
     skos:prefLabel "voetafdruk" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/HorizontalGeometryReferenceValue/footPrint> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie> .

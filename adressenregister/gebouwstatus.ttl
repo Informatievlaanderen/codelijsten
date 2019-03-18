@@ -10,7 +10,7 @@
     a skos:Concept ;
     skos:definition "Het gebouw werd gesloopt, samengevoegd of gesplitst." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "gehistoreerd" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/demolished> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
@@ -19,7 +19,7 @@
     a skos:Concept ;
     skos:definition "Er werd een vergunning aangevraagd of verleend voor het gebouw." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "gepland" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/projected> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
@@ -28,7 +28,7 @@
     a skos:Concept ;
     skos:definition "Het gebouw werd gerealiseerd (werken beëindigd) en/of is waarneembaar op het terrein." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "gerealiseerd" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/functional> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
@@ -37,7 +37,7 @@
     a skos:Concept ;
     skos:definition "De werken aan het gebouw zijn gestart." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "in aanbouw" ;
     skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/underConstruction> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
@@ -46,7 +46,7 @@
     a skos:Concept ;
     skos:definition "De vergunning voor het gebouw werd niet verleend of is vervallen of de vergunningsaanvraag werd ingetrokken door de bouwheer." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
-    skos:note "-" ;
+    
     skos:prefLabel "niet gerealiseerd" ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
 
