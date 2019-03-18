@@ -3,7 +3,8 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidstatus>
     a skos:ConceptScheme ;
-    skos:definition "" .
+    skos:prefLabel "conceptscheme gebouweenheidstatus";
+    skos:definition "Codelijst voor de status van een gebouweenheid." .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidstatus/gehistoreerd>
     a skos:Concept ;

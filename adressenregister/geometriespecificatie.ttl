@@ -3,16 +3,9 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie>
     a skos:ConceptScheme ;
-    skos:definition "" .
+    skos:prefLabel "conceptscheme geometriespecificatie";
+    skos:definition "Codelijst voor de geometriespecificatie van een geografische positie." .
 
-<https://data.vlaanderen.be/id/concept/geometriespecificatie/gebouw>
-    a skos:Concept ;
-    skos:definition "De positie duidt een gebouw aan." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
-    skos:note "-" ;
-    skos:prefLabel "gebouw" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/building> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/gebouweenheid>
     a skos:Concept ;
@@ -77,21 +70,15 @@
     skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
 
-<https://data.vlaanderen.be/id/concept/geometriespecificatie/straat>
-    a skos:Concept ;
-    skos:definition "De positie duidt een straat aan." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
-    skos:note "-" ;
-    skos:prefLabel "straat" ;
-    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
-
 <https://data.vlaanderen.be/id/concept/geometriespecificatie/wegsegment>
     a skos:Concept ;
-    skos:definition "De positie duidt een wegsegment aan." ;
+    skos:definition "De adrespositie werd bepaald op basis van het wegsegment." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> ;
     skos:note "-" ;
     skos:prefLabel "wegsegment" ;
-    skos:relatedMatch <http://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/segment> ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/GeometrySpecificationValue/segment> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/geometriespecificatie> .
+
 

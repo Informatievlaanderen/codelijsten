@@ -4,7 +4,8 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/verticalereferentie>
     a skos:ConceptScheme ;
-    skos:definition "" .
+    skos:prefLabel "conceptscheme verticalereferentie";
+    skos:definition "Codelijst voor de verticale referentie van een geometrie." .
 
 <https://data.vlaanderen.be/id/concept/verticalereferentie/bodem>
     a skos:Concept ;

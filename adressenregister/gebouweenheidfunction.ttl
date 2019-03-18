@@ -5,7 +5,7 @@
 <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie>
     a skos:ConceptScheme ;
     skos:prefLabel "conceptscheme gebouweenheidfunctie";
-    skos:definition "" .
+    skos:definition "Codelijst voor de functie van een gebouweenheid." .
 
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/dagrecreatieSport>
@@ -14,6 +14,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "dagrecreatie, met inbegrip van sport" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/commerceAndServices> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/dancingRestaurantCafé>
@@ -31,6 +32,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "detailhandel" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/trade> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/gemeenschappelijkDeel>
@@ -47,6 +49,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "gemeenschaps- of openbare nutsvoorziening" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/publicServices> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/industrieBedrijvigheid>
@@ -55,11 +58,12 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "industrie en bedrijvigheid" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/industrial> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/kamerwoning>
     a skos:Concept ;
-    skos:definition "De gebouweenheid wordt gebruikt voor het verblijf van één of meerdere personen. Van de basisvoorzieningen 'Keuken', 'Bad/douche' en 'Toilet' ontbreekt er minstens één. Nota: deze is dan wel als gemeenschappelijke voorziening aanwezig." ;
+    skos:definition "De gebouweenheid wordt gebruikt voor het verblijf van één of meerdere personen. Van de basisvoorzieningen 'Keuken', 'Bad/douche' en 'Toilet' ontbreekt er minstens één;  Deze is dan wel als gemeenschappelijke voorziening aanwezig." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "kamerwoning" ;
@@ -71,6 +75,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "kantoor, dienstverlening of vrij beroep" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/office> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/landTuinbouw>
@@ -79,6 +84,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "land- of tuinbouw in ruime zin" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/agriculture> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/nietGekend>
@@ -95,6 +101,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "verblijfsrecreatie" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/commerceAndServices> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 
 <https://data.vlaanderen.be/id/concept/gebouweenheidfunctie/woning>
@@ -103,5 +110,6 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> ;
     skos:note "-" ;
     skos:prefLabel "woning" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/CurrentUseValue/residential> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouweenheidfunctie> .
 

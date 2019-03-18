@@ -4,13 +4,14 @@
 <https://data.vlaanderen.be/id/conceptscheme/adresstatus>
     a skos:ConceptScheme ;
     skos:prefLabel "conceptscheme adresstatus" ;
-    skos:definition "De statussen welke een adres in het adressenregister kan hebben" .
+    skos:definition "Codelijst voor de status van een adres." .
 
 <https://data.vlaanderen.be/id/concept/adresstatus/gehistoreerd>
     a skos:Concept ;
     skos:definition "Het adres werd formeel opgeheven door de gemeenteraad." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/adresstatus> ;
     skos:prefLabel "gehistoreerd" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/StatusValue/retired> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/adresstatus> .
 
 <https://data.vlaanderen.be/id/concept/adresstatus/inGebruik>
@@ -18,6 +19,7 @@
     skos:definition "Het adres werd formeel goedgekeurd door de gemeenteraad en/of wordt actief gebruikt voor adressering." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/adresstatus> ;
     skos:prefLabel "in gebruik" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/StatusValue/current> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/adresstatus> .
 
 <https://data.vlaanderen.be/id/concept/adresstatus/voorgesteld>
@@ -25,5 +27,6 @@
     skos:definition "Het adres werd voorgesteld maar nog niet goedgekeurd door de gemeenteraad." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/adresstatus> ;
     skos:prefLabel "voorgesteld" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/StatusValue/proposed> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/adresstatus> .
 

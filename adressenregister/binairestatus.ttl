@@ -3,7 +3,8 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/binairestatus>
     a skos:ConceptScheme ;
-    skos:definition "" .
+    skos:prefLabel "conceptscheme binairestatus";
+    skos:definition "Codelijst voor objecten die slechts twee statussen (actueel/historisch) kennen." .
 
 <https://data.vlaanderen.be/id/concept/binairestatus/gehistoreerd>
     a skos:Concept ;

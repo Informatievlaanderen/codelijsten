@@ -4,7 +4,8 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/horizontalereferentie>
     a skos:ConceptScheme ;
-    skos:definition "" .
+    skos:prefLabel "conceptscheme horizontalereferentie";
+    skos:definition "Codelijst voor de horizontale referentie van een geometrie." .
 
 <https://data.vlaanderen.be/id/concept/horizontalereferentie/bovengrondseOmhulling>
     a skos:Concept ;

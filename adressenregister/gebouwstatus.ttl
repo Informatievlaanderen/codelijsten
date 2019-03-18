@@ -3,7 +3,8 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus>
     a skos:ConceptScheme ;
-    skos:definition "" .
+    skos:prefLabel "conceptscheme gebouwstatus";
+    skos:definition "Codelijst voor de status van een gebouw." .
 
 <https://data.vlaanderen.be/id/concept/gebouwstatus/gehistoreerd>
     a skos:Concept ;
@@ -11,6 +12,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
     skos:note "-" ;
     skos:prefLabel "gehistoreerd" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/demolished> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
 
 <https://data.vlaanderen.be/id/concept/gebouwstatus/gepland>
@@ -19,6 +21,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
     skos:note "-" ;
     skos:prefLabel "gepland" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/projected> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
 
 <https://data.vlaanderen.be/id/concept/gebouwstatus/gerealiseerd>
@@ -27,6 +30,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
     skos:note "-" ;
     skos:prefLabel "gerealiseerd" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/functional> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
 
 <https://data.vlaanderen.be/id/concept/gebouwstatus/inAanbouw>
@@ -35,6 +39,7 @@
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> ;
     skos:note "-" ;
     skos:prefLabel "in aanbouw" ;
+    skos:relatedMatch <https://inspire.ec.europa.eu/codelist/ConditionOfConstructionValue/underConstruction> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/gebouwstatus> .
 
 <https://data.vlaanderen.be/id/concept/gebouwstatus/nietGerealiseerd>

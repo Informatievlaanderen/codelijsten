@@ -4,7 +4,8 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/locatieaanduiding>
     a skos:ConceptScheme ;
-    skos:definition "" .
+    skos:prefLabel "conceptscheme locatieaanduiding";
+    skos:definition "Codelijst met locatieaanduidingen." .
 
 <https://data.vlaanderen.be/id/concept/locatieaanduiding/deur>
     a skos:Concept ;
