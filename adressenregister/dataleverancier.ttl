@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.vlaanderen.be/id/concept/dataleverancier/gemeente>
+    a skos:Concept ;
+    skos:definition "Een gemeente in België." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/dataleverancier> ;
+    skos:note "" ;
+    skos:prefLabel "gemeente" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/dataleverancier> .
+
+<https://data.vlaanderen.be/id/concept/dataleverancier/navteq>
+    a skos:Concept ;
+    skos:definition "NavTeq" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/dataleverancier> ;
+    skos:note "" ;
+    skos:prefLabel "NavTeq" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/dataleverancier> .
+
+<https://data.vlaanderen.be/id/concept/dataleverancier/teleatlas>
+    a skos:Concept ;
+    skos:definition "TeleAtlas" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/dataleverancier> ;
+    skos:note "" ;
+    skos:prefLabel "TeleAtlas" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/dataleverancier> .
+
+<https://data.vlaanderen.be/id/conceptscheme/dataleverancier>
+    a skos:ConceptScheme ;
+    skos:definition "Codelijst met organisaties die data aanleveren voor de basisregisters, en buiten de scope vallen van het Organisatieregister." ;
+    skos:prefLabel "conceptcheme dataleverancier" .
+

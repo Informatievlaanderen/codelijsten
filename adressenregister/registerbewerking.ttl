@@ -1,0 +1,40 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.vlaanderen.be/id/concept/registerbewerking/correctie>
+    a skos:Concept ;
+    skos:definition "Update van een attribuut of koppeling i.f.v. de rechtzetting van een fout in het register." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> ;
+    skos:note "" ;
+    skos:prefLabel "correctie" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> .
+
+<https://data.vlaanderen.be/id/concept/registerbewerking/invoer>
+    a skos:Concept ;
+    skos:definition "Invoer van een nieuwe objectversie." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> ;
+    skos:note "" ;
+    skos:prefLabel "invoer" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> .
+
+<https://data.vlaanderen.be/id/concept/registerbewerking/verwijdering>
+    a skos:Concept ;
+    skos:definition "Verwijdering van een objectversie." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> ;
+    skos:note "" ;
+    skos:prefLabel "verwijdering" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> .
+
+<https://data.vlaanderen.be/id/concept/registerbewerking/wijziging>
+    a skos:Concept ;
+    skos:definition "Update van een attribuut of koppeling omwille van een wijziging aan het object in de realiteit." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> ;
+    skos:note "" ;
+    skos:prefLabel "wijziging" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/registerbewerking> .
+
+<https://data.vlaanderen.be/id/conceptscheme/registerbewerking>
+    a skos:ConceptScheme ;
+    skos:definition "Codelijst met bewerkingen op objectversies in de basisregisters." ;
+    skos:prefLabel "conceptscheme registerbewerking" .
+

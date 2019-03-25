@@ -1,0 +1,35 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.vlaanderen.be/id/concept/2Dgeometriemethode/ingemeten>
+    a skos:Concept ;
+    skos:definition "Object werd ingemeten." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/2Dgeometriemethode> ;
+    skos:note "Het object werd bijvoorbeeld overgenomen uit een as-built-plan of andere dataset." ;
+    skos:prefLabel "ingemeten" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/2Dgeometriemethode> .
+
+<https://data.vlaanderen.be/id/concept/2Dgeometriemethode/ingemetenGRB>
+    a skos:Concept ;
+    skos:definition "Object werd ingemeten volgens GRB-specificaties." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/2Dgeometriemethode> ;
+    skos:note "-" ;
+    skos:prefLabel "ingemeten conform GRB" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/2Dgeometriemethode> .
+
+<https://data.vlaanderen.be/id/concept/2Dgeometriemethode/ingeschetst>
+    a skos:Concept ;
+    skos:definition "Object werd ingeschetst." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/2Dgeometriemethode> ;
+    skos:note "-" ;
+    skos:prefLabel "ingeschetst" ;
+    skos:relatedMatch <file:///home/oslo/informatievlaanderen/codelijsten/adressenregister/-> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/2Dgeometriemethode> .
+
+<https://data.vlaanderen.be/id/conceptscheme/2Dgeometriemethode>
+    a skos:ConceptScheme ;
+    skos:definition "Codelijst voor de geometriemethode van een polygoon." ;
+    skos:prefLabel "conceptcheme 2Dgeometriemethode" .
+
