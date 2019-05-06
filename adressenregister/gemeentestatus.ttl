@@ -3,7 +3,7 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/gemeentestatus>
     a skos:ConceptScheme ;
-    skos:prefLabel "conceptscheme gemeeentestatus";
+    skos:prefLabel "conceptscheme gemeentestatus";
     skos:definition "Codelijst voor de status van een gemeente." .
 
 <https://data.vlaanderen.be/id/concept/gemeentestatus/gehistoreerd>
