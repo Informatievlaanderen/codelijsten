@@ -1,0 +1,24 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+
+<https://data.vlaanderen.be/id/conceptscheme/SpecialisedEMFTypeValue>
+    a skos:ConceptScheme ;
+    skos:prefLabel "conceptscheme SpecialisedEMFTypeValue" ;
+    skos:definition "Categorieën voor verschillende types EnvironmentalMonitoringFacilities." .
+
+<https://data.vlaanderen.be/id/concept/SpecialisedEMFTypeValue/meetplaats>
+    a skos:Concept ;
+    skos:definition "Een locatie waar stalen genomen worden om een meting uit te voeren.
+	Deze codewaarde is een extensie op INSPIRE EF - code-list SpecialisedEMFTypeValue" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/SpecialisedEMFTypeValue> ;
+    skos:prefLabel "meetplaats" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/SpecialisedEMFTypeValue> .
+	
+<https://data.vlaanderen.be/id/concept/SpecialisedEMFTypeValue/meetstation>
+    a skos:Concept ;
+    skos:definition "Een installatie die gebruikt wordt voor het uitvoeren van permanente metingen (meetsondes, voeding,communicatie).
+	Deze codewaarde is een extensie op INSPIRE EF - code-list SpecialisedEMFTypeValue" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/SpecialisedEMFTypeValue> ;
+    skos:prefLabel "meetstation" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/SpecialisedEMFTypeValue> .

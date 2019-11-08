@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+
+<https://data.vlaanderen.be/id/conceptscheme/PurposeOfCollectionValue>
+    a skos:ConceptScheme ;
+    skos:prefLabel "conceptscheme PurposeOfCollectionValue" ;
+    skos:definition "Categorieën voor verschillende verzamelingsdoeleinden." .
+
+<https://data.vlaanderen.be/id/concept/PurposeOfCollectionValue/overstortpeil>
+    a skos:Concept ;
+    skos:definition "Peil in een overstortinstallatie met overstortmuur als nulreferentie.
+	Deze codewaarde is een extensie op INSPIRE EF - code-list PurposeOfCollectionValue" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/PurposeOfCollectionValue> ;
+    skos:prefLabel "overstortpeil" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/PurposeOfCollectionValue> .
+	
+<https://data.vlaanderen.be/id/concept/PurposeOfCollectionValue/afvalwaterkwaliteit>
+    a skos:Concept ;
+    skos:definition "De (chemische) samenstelling van het afvalwater.
+	Deze codewaarde is een extensie op INSPIRE EF - code-list PurposeOfCollectionValue" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/PurposeOfCollectionValue> ;
+    skos:prefLabel "afvalwaterkwaliteit" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/PurposeOfCollectionValue> .
+
+<https://data.vlaanderen.be/id/concept/PurposeOfCollectionValue/waterkwaliteit>
+    a skos:Concept ;
+    skos:definition "De kwaliteit van het water, bepaald via zijn fysico-chemische samenstelling, en/of biologische kwalitieit.
+	Deze codewaarde is een extensie op INSPIRE EF - code-list PurposeOfCollectionValue" ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/PurposeOfCollectionValue> ;
+    skos:prefLabel "waterkwaliteit" ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/PurposeOfCollectionValue> .
+
