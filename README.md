@@ -1,5 +1,5 @@
 # codelijsten
-Deze repository omvat een aantal codelijsten die gepubliceerd worden op data.vlaanderen.be.
+Deze repository omvat een aantal codelijsten die gepubliceerd worden op <https://data.vlaanderen.be/doc/conceptscheme>.
 
 Per codelijst wordt een subdirectory aangemaakt. Elke codelijst is een of meerdere RDF files in de turtle syntax volgens het SKOS vocabularium.
 De master branch staat op data.vlaanderen.be. De test-branch is voor de test-omgeving.
