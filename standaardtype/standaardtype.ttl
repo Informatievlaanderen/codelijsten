@@ -1,0 +1,46 @@
+@prefix skos:      <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct:       <http://purl.org/dc/terms/> .
+@prefix rdfs:      <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://data.vlaanderen.be/id/conceptscheme/StandaardType>
+   a skos:ConceptScheme ;
+   dct:modified "2021-02-15" ;
+   skos:definition "Informatie over het type van de standaard"@nl ;
+   skos:prefLabel "StandaardType"@nl .
+
+<https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium>
+   a skos:Concept ;
+   skos:prefLabel "Vocabularium"@nl ;
+   skos:definition "De basis voor open semantische informatiestandaarden, dit omvat een gedeeld begrippenkader voor bepaalde concepten met een focus op gegevensuitwisseling"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardType> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardType> .
+
+<https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel>
+   a skos:Concept ;
+   skos:prefLabel "Applicatieprofiel"@nl ;
+   skos:definition "Dit type document is een specificatie op basis van de termen uit een of meerdere vocabularia. Het geeft aan hoe data binnen een generiek applicatie domein dient gebruikt te worden."@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardType> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardType> .
+
+<https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel>
+   a skos:Concept ;
+   skos:prefLabel "Implementatiemodel"@nl ;
+   skos:definition " Dit Type document is een specificatie op basis van de termen uit een of meerdere vocabularia. Het heeft aan hoe data binnen een specifiek applicatiedomein dient gebruikt te worden. Dikwijls, maar niet verplicht, implementeert een implementatie model de afspraken van een bijhorend applicatieprofiel"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardType> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardType> .
+
+<https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard>
+   a skos:Concept ;
+   skos:prefLabel "Technische standaard"@nl ;
+   skos:definition "De technische specificaties voor gegevensuitwisseling, ze bieden manieren aan van gestandaardiseerde gegevensuitwisseling aan."@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardType> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardType> .
+
+<https://data.vlaanderen.be/id/concept/StandaardType/Interoperabiliteit>
+   a skos:Concept ;
+   skos:prefLabel "Interoperabiliteit"@nl ;
+   skos:definition "een stabiele specificatie voor de standaard werd ontwikkeld, aan de hand van een publieke reviewperiode wordt implementatie-ervaring opgedaan en feedback van buiten de thematische werkgroep verzameld"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardType> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardType> .
+
+
