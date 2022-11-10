@@ -5,11 +5,15 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#>.
 
 
+ 
+
+
 <https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0> a dct:LicenseDocument;
       rdf:type cc:License ;
       cc:requires cc:Attribution ;
       dct:type <http://purl.org/adms/licencetype/Attribution> ;
       rdfs:seeAlso <https://overheid.vlaanderen.be/hergebruik/licenties/v1-0/html/modellicentie-gratis-hergebruik> ;
+      rdfs:seeAlso <https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik> ;
       dct:title "Modellicentie voor gratis hergebruik"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description "Hergebruik is geregeld d.m.v. de Modellicentie voor gratis hergebruik (cfr Titel II, hoofdstuk 4 van het Bestuursdecreet). Elk commercieel of niet-commercieel hergebruik voor onbepaalde duur is toegelaten, zonder dat daar kosten aan verbonden zijn. Als enige gebruiksvoorwaarde geldt een bronvermeldingsplicht."@nl.
@@ -20,6 +24,7 @@
       dct:type <http://purl.org/adms/licencetype/NominalCost> ;
       dct:type <http://purl.org/adms/licencetype/Attribution> ;
       rdfs:seeAlso <https://overheid.vlaanderen.be/hergebruik/licenties/v1-0/html/modellicentie-hergebruik-tegen-vergoeding> ;
+      rdfs:seeAlso <https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-hergebruik-tegen-vergoeding> ;
       dct:title "Modellicentie voor hergebruik tegen vergoeding"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description "Hergebruik is geregeld d.m.v. de 'Modellicentie hergebruik tegen vergoeding' (cfr Titel II, hoofdstuk 4 van het Bestuursdecreet). Elk commercieel of niet-commercieel hergebruik is toegelaten, mits het betalen van een vergoeding en het in acht nemen van een bronvermeldingsplicht. De vergoeding is beperkt tot de marginale kosten (kosten voor de vermenigvuldiging, de verstrekking en de verspreiding van de gegevens)."@nl.
@@ -28,6 +33,7 @@
       rdf:type cc:License ;
       dct:type <http://purl.org/adms/licencetype/PublicDomain> ;
       rdfs:seeAlso <https://overheid.vlaanderen.be/hergebruik/licenties/v1-0/html/cc0> ;
+      rdfs:seeAlso <https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/cc0-verklaring> ;
       owl:sameAs <https://creativecommons.org/publicdomain/zero/1.0/> ;
       dct:title "Creative Commons Zero verklaring"@nl ;
       owl:versionInfo "v1.0" ;
@@ -55,6 +61,7 @@
       dct:type <http://purl.org/adms/licencetype/JurisdictionWithinTheEU> ;
       rdfs:seeAlso <https://codex.vlaanderen.be/PrintDocument.ashx?id=1020931> ;
       rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/gebruik-geogr-gegevens-voor-publieke-taken-door-instanties-niet-deelnemers-GDI-Vlaanderen> ;  
+      rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/voorwaarden/taken%20van%20algemeen%20belang/overheidsinstanties%20niet-deelnemers%20gdi-vlaanderen> ;
       dct:title "Vastgestelde regeling voor toegang en gebruik van geografische gegevensbronnen en -diensten toegevoegd aan de GDI door instanties die geen deelnemer zijn aan GDI-Vlaanderen"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description "Bij BVR vastgestelde regeling voor toegang en gebruik van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI, door overheidsinstanties die niet-deelnemer zijn aan GDI-Vlaanderen, voor taken van algemeen belang: toegang en gebruik kunnen afhankelijk zijn van de betaling van een vergoeding; er geldt een verplichte bronvermelding indien de eigenaar dit vraagt; er kunnen bijkomende voorwaarden van beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder; er is een gebruiksregeling voorzien in het geval de overheidsinstantie de uitvoering van haar taak van algemeen belang, opdraagt aan een opdrachtnemer. (Besluit van de Vlaamse Regering van 21 oktober 2011, tot bepaling van de nadere regels voor de toegang tot en het gebruik door instanties die geen deelnemer zijn aan GDI-Vlaanderen van de geografische gegevensbronnen en geografische diensten, toegevoegd aan de GDI, en de vergoedingsregeling voor de publieke toegang)"@nl.
@@ -64,6 +71,7 @@
       cc:requires cc:Attribution ;
       dct:type <http://purl.org/adms/licencetype/JurisdictionWithinTheEU> ;
       rdfs:seeAlso <https://codex.vlaanderen.be/PrintDocument.ashx?id=1026111> ;
+      rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/voorwaarden/grb%20voor%20heffingsplichtigen> ;
       dct:title "Vastgestelde regeling voor toegang en gebruik van de grootschalige referentiegegevens die in het GRB zijn opgenomen"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description """Bij BVR vastgestelde regelingen voor toegang en gebruik van de grootschalige referentiegegevens die in het GRB zijn opgenomen. Het betreft de regelingen voor gebruik voor taken van algemeen belang, het gebruik door netbeheerders van fysieke leidingnetten en het hergebruik (modellicentie voor gratis hergebruik). De toegang tot, het gebruik en het hergebruik van het GRB is kosteloos. Als bronvermelding geldt: "Bron: Grootschalig Referentie Bestand Vlaanderen, agentschap Digitaal Vlaanderen". (Besluit van de Vlaamse Regering van 2 oktober 2015, houdende diverse bepalingen over de toegang en het gebruik, de erkenning als authentieke geografische gegevensbron en de bijhouding van het Grootschalig Referentie Bestand (GRB))"""@nl.
@@ -74,6 +82,7 @@
       dct:type <http://purl.org/adms/licencetype/JurisdictionWithinTheEU> ;
       rdfs:seeAlso <https://codex.vlaanderen.be/PrintDocument.ashx?id=1030009#H1089384> ;
       rdfs:seeAlso <https://codex.vlaanderen.be/PrintDocument.ashx?id=1027579#H1076937> ;
+      rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/voorwaarden/taken%20van%20algemeen%20belang/deelnemers%20gdi-vlaanderen> ;
       dct:title "Vastgestelde regeling voor toegang en gebruik van niet-geografische gegevensbronnen, voor het uitvoeren van publieke taken door Vlaamse en lokale instanties"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description "Bij decreet vastgestelde regeling voor toegang en gebruik van bestuursdocumenten uit niet-geografische gegevensbronnen voor het uitvoeren van publieke taken door Vlaamse en Vlaamse lokale instanties: er geldt een bronvermeldingsplicht (indien de bezorgende instantie daarom vraagt), en een foutmeldingsplicht. Bestuursdocumenten die vatbaar zijn voor hergebruik en erkende authentieke gegevensbronnen worden kosteloos uitgewisseld; er kunnen bijkomende voorwaarden van beperkte en technische draagwijdte opgelegd zijn; er is een gebruiksregeling voorzien voor het geval de overheidsinstantie de uitvoering van een publieke taak opdraagt aan een opdrachtnemer. (Decreet van 7 december 2018, Bestuursdecreet: TITEL III. Organisatorische bepalingen, HOOFDSTUK 3. Werking, Afdeling 3. Elektronisch bestuurlijk gegevensverkeer en het Besluit van de Vlaamse Regering van 16 september 2019, tot uitvoering van [titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018, betreffende het hergebruik van overheidsinformatie en tot bepaling van de kosteloze uitwisseling van bestuursdocumenten tussen instanties, vermeld in artikel III.72 van het bestuursdecreet van 7 december 2018 (verv. BVR 10 mei 2019, art. 158, I: 1 januari 2019]: HOOFDSTUK 6. Uitwisseling van bestuursdocumenten tussen instanties onderling) "@nl.
