@@ -51,7 +51,7 @@
       cc:requires cc:Attribution ;
       dct:type <http://purl.org/adms/licencetype/Attribution> ;
       rdfs:seeAlso <https://codex.vlaanderen.be/PrintDocument.ashx?id=1019561> ;
-      rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/gebruik-geogr-gegevens-voor-publieke-taken-door-deelnemers-GDI-Vlaanderen> ;  
+      rdfs:seeAlso <https://www.vlaanderen.be/geopunt/vlaams-geoportaal/gdi-vlaanderen/voorwaarden/taken-van-algemeen-belang/deelnemers-gdi-vlaanderen> ;
       dct:title "Toegang en gebruik van geografische gegevensbronnen en -diensten toegevoegd aan de GDI, door deelnemers aan GDI-Vlaanderen"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description "Regeling voor toegang en gebruik van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI, door deelnemers aan GDI-Vlaanderen, voor taken van algemeen belang: het gebruik is kosteloos, er geldt een foutmeldingsplicht en een verplichte bronvermelding zoals bepaald door de eigenaar; er kunnen bijkomende voorwaarden van beperkte en technische draagwijdte worden opgelegd; er is een gebruiksregeling in het geval de deelnemer aan GDI-Vlaanderen de uitvoering van zijn taak van algemeen belang, opdraagt aan een opdrachtnemer. (Besluit van de Vlaamse Regering van 10 september 2010, tot bepaling van de nadere regels voor de toegang tot en het gebruik door de deelnemers aan GDI-Vlaanderen van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI)"@nl .
@@ -61,7 +61,7 @@
       dct:type <http://purl.org/adms/licencetype/JurisdictionWithinTheEU> ;
       rdfs:seeAlso <https://codex.vlaanderen.be/PrintDocument.ashx?id=1020931> ;
       rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/gebruik-geogr-gegevens-voor-publieke-taken-door-instanties-niet-deelnemers-GDI-Vlaanderen> ;  
-      rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/voorwaarden/taken%20van%20algemeen%20belang/overheidsinstanties%20niet-deelnemers%20gdi-vlaanderen> ;
+      rdfs:seeAlso <https://www.vlaanderen.be/geopunt/vlaams-geoportaal/gdi-vlaanderen/voorwaarden/taken-van-algemeen-belang/overheidinstanties-niet-deelnemers-gdi-vlaanderen> ;
       dct:title "Vastgestelde regeling voor toegang en gebruik van geografische gegevensbronnen en -diensten toegevoegd aan de GDI door instanties die geen deelnemer zijn aan GDI-Vlaanderen"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description "Bij BVR vastgestelde regeling voor toegang en gebruik van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI, door overheidsinstanties die niet-deelnemer zijn aan GDI-Vlaanderen, voor taken van algemeen belang: toegang en gebruik kunnen afhankelijk zijn van de betaling van een vergoeding; er geldt een verplichte bronvermelding indien de eigenaar dit vraagt; er kunnen bijkomende voorwaarden van beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder; er is een gebruiksregeling voorzien in het geval de overheidsinstantie de uitvoering van haar taak van algemeen belang, opdraagt aan een opdrachtnemer. (Besluit van de Vlaamse Regering van 21 oktober 2011, tot bepaling van de nadere regels voor de toegang tot en het gebruik door instanties die geen deelnemer zijn aan GDI-Vlaanderen van de geografische gegevensbronnen en geografische diensten, toegevoegd aan de GDI, en de vergoedingsregeling voor de publieke toegang)"@nl.
@@ -71,7 +71,7 @@
       cc:requires cc:Attribution ;
       dct:type <http://purl.org/adms/licencetype/JurisdictionWithinTheEU> ;
       rdfs:seeAlso <https://codex.vlaanderen.be/PrintDocument.ashx?id=1026111> ;
-      rdfs:seeAlso <https://www.geopunt.be/voor-experts/gdi-vlaanderen/voorwaarden/grb%20voor%20heffingsplichtigen> ;
+      rdfs:seeAlso <https://www.vlaanderen.be/geopunt/vlaams-geoportaal/gdi-vlaanderen/voorwaarden/grb-voor-heffingsplichtigen> ;
       dct:title "Vastgestelde regeling voor toegang en gebruik van de grootschalige referentiegegevens die in het GRB zijn opgenomen"@nl ;
       owl:versionInfo "v1.0" ;
       dct:description """Bij BVR vastgestelde regelingen voor toegang en gebruik van de grootschalige referentiegegevens die in het GRB zijn opgenomen. Het betreft de regelingen voor gebruik voor taken van algemeen belang, het gebruik door netbeheerders van fysieke leidingnetten en het hergebruik (modellicentie voor gratis hergebruik). De toegang tot, het gebruik en het hergebruik van het GRB is kosteloos. Als bronvermelding geldt: "Bron: Grootschalig Referentie Bestand Vlaanderen, agentschap Digitaal Vlaanderen". (Besluit van de Vlaamse Regering van 2 oktober 2015, houdende diverse bepalingen over de toegang en het gebruik, de erkenning als authentieke geografische gegevensbron en de bijhouding van het Grootschalig Referentie Bestand (GRB))"""@nl.
