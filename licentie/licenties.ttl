@@ -12,7 +12,6 @@
       rdf:type cc:License ;
       cc:requires cc:Attribution ;
       dct:type <http://purl.org/adms/licencetype/Attribution> ;
-      rdfs:seeAlso <https://overheid.vlaanderen.be/hergebruik/licenties/v1-0/html/modellicentie-gratis-hergebruik> ;
       rdfs:seeAlso <https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik> ;
       dct:title "Modellicentie voor gratis hergebruik"@nl ;
       owl:versionInfo "v1.0" ;
@@ -23,7 +22,6 @@
       cc:requires cc:Attribution ;
       dct:type <http://purl.org/adms/licencetype/NominalCost> ;
       dct:type <http://purl.org/adms/licencetype/Attribution> ;
-      rdfs:seeAlso <https://overheid.vlaanderen.be/hergebruik/licenties/v1-0/html/modellicentie-hergebruik-tegen-vergoeding> ;
       rdfs:seeAlso <https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-hergebruik-tegen-vergoeding> ;
       dct:title "Modellicentie voor hergebruik tegen vergoeding"@nl ;
       owl:versionInfo "v1.0" ;
@@ -32,7 +30,6 @@
 <https://data.vlaanderen.be/id/licentie/creative-commons-zero-verklaring/v1.0> a dct:LicenseDocument;
       rdf:type cc:License ;
       dct:type <http://purl.org/adms/licencetype/PublicDomain> ;
-      rdfs:seeAlso <https://overheid.vlaanderen.be/hergebruik/licenties/v1-0/html/cc0> ;
       rdfs:seeAlso <https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/cc0-verklaring> ;
       owl:sameAs <https://creativecommons.org/publicdomain/zero/1.0/> ;
       dct:title "Creative Commons Zero verklaring"@nl ;
