@@ -11,6 +11,8 @@ De volgende afspraken gelden:
 - uri's van concepten en conceptscheme's voldoen aan de URI standaard en het volgende patroon:
   - `https://data.vlaanderen.be/id/conceptscheme/{mijncs}`
   - `https://data.vlaanderen.be/id/concept/{mijncs}/{mijnconcept}`
+
+  waarbij {mijncs} en {mijnconcept} enkel ascii tekens bevat. Dit is een identificator referentie en niet de label. Speciale tekens zoals accenten worden enkel opgenomen in de labels en beschrijvingen. Op deze manier is de software implementatie minder foutgevoelig zonder in te boeten op mensleesbaarheid.
   
 - voor conceptschemes worden de volgende eigenschappen getoond op de html subjectpagina's:
 
