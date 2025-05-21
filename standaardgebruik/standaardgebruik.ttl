@@ -4,7 +4,7 @@
 
 <https://data.vlaanderen.be/id/conceptscheme/StandaardGebruik>
    a skos:ConceptScheme ;
-   dct:modified "2023-09-26" ;
+   dct:modified "2025-05-21" ;
    skos:definition "Informatie over het verplicht karakter van de standaard"@nl ;
    skos:prefLabel "StandaardGebruik"@nl .
 
