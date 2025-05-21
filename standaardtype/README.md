@@ -1,4 +1,4 @@
-# Codelijst StandaardStatus
+# Codelijst StandaardType
 
 maintainer: [OSLO team](mailto:oslo-support@vlaanderen.be)
 
