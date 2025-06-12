@@ -64,4 +64,11 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
 
+<https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus>
+   a skos:Concept ;
+   skos:prefLabel "Zonder Status"@nl ;
+   skos:definition "Dit document heeft nog geen officiële status toegekend gekregen door het stuurorgaan Vlaams Informatie- en ICT-beleid of bevindt zich in een voorbereidende fase voordat een formele status wordt bepaald."@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StandaardStatus> .
+
 
