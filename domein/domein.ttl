@@ -14,10 +14,10 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
 
-<https://data.vlaanderen.be/id/concept/Domein/TechnischeStandaard>
+<https://data.vlaanderen.be/id/concept/Domein/Technologie>
    a skos:Concept ;
-   skos:prefLabel "Technische standaard"@nl ;
-   skos:definition "Standaarden voor technische specificaties, protocollen en implementaties"@nl ;
+   skos:prefLabel "Technologie"@nl ;
+   skos:definition "Standaarden voor technologie, digitale infrastructuur en innovatie"@nl ;
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
 
