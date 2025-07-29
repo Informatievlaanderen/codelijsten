@@ -1,0 +1,106 @@
+@prefix skos:      <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct:       <http://purl.org/dc/terms/> .
+
+<https://data.vlaanderen.be/id/conceptscheme/Domein>
+   a skos:ConceptScheme ;
+   dct:modified "2025-07-29" ;
+   skos:definition "Informatie over de domeinen waarin standaarden kunnen worden toegepast binnen de Vlaamse overheid"@nl ;
+   skos:prefLabel "StandaardDomein"@nl .
+
+<https://data.vlaanderen.be/id/concept/Domein/Omgeving>
+   a skos:Concept ;
+   skos:prefLabel "Omgeving"@nl ;
+   skos:definition "Standaarden gerelateerd aan milieu, natuur, ruimtelijke ordening en duurzaamheid"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/TechnischeStandaard>
+   a skos:Concept ;
+   skos:prefLabel "Technische standaard"@nl ;
+   skos:definition "Standaarden voor technische specificaties, protocollen en implementaties"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Onderwijs>
+   a skos:Concept ;
+   skos:prefLabel "Onderwijs"@nl ;
+   skos:definition "Standaarden voor het onderwijsdomein, inclusief scholen, universiteiten en levenslang leren"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Welzijn>
+   a skos:Concept ;
+   skos:prefLabel "Welzijn"@nl ;
+   skos:definition "Standaarden voor gezondheidszorg, welzijn en sociale dienstverlening"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Mobiliteit>
+   a skos:Concept ;
+   skos:prefLabel "Mobiliteit"@nl ;
+   skos:definition "Standaarden voor transport, verkeer en mobiliteitsoplossingen"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Economie>
+   a skos:Concept ;
+   skos:prefLabel "Economie"@nl ;
+   skos:definition "Standaarden voor economische ontwikkeling, arbeidsmarkt en ondernemerschap"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Cultuur>
+   a skos:Concept ;
+   skos:prefLabel "Cultuur"@nl ;
+   skos:definition "Standaarden voor culturele activiteiten, erfgoed en kunst"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Wetgeving>
+   a skos:Concept ;
+   skos:prefLabel "Wetgeving"@nl ;
+   skos:definition "Standaarden voor wetgeving, juridische processen en rechtspraak"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Financien>
+   a skos:Concept ;
+   skos:prefLabel "Financiën"@nl ;
+   skos:definition "Standaarden voor financiële processen, boekhouding en budgettering"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/WonenRuimtelijkeOrdening>
+   a skos:Concept ;
+   skos:prefLabel "Wonen en ruimtelijke ordening"@nl ;
+   skos:definition "Standaarden voor huisvesting, ruimtelijke planning en stedenbouw"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Energie>
+   a skos:Concept ;
+   skos:prefLabel "Energie"@nl ;
+   skos:definition "Standaarden voor energieproductie, distributie en duurzaamheid"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Generiek>
+   a skos:Concept ;
+   skos:prefLabel "Generiek"@nl ;
+   skos:definition "Standaarden die niet specifiek aan een domein zijn gekoppeld, maar breed toepasbaar zijn"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Sport>
+   a skos:Concept ;
+   skos:prefLabel "Sport"@nl ;
+   skos:definition "Standaarden voor sportactiviteiten, faciliteiten en evenementen"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
+
+<https://data.vlaanderen.be/id/concept/Domein/Onbekend>
+   a skos:Concept ;
+   skos:prefLabel "Onbekend"@nl ;
+   skos:definition "Standaarden waarvan het domein niet is gespecificeerd of niet bekend is"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/Domein> ;
+   skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/Domein> .
