@@ -5,7 +5,7 @@
    a skos:ConceptScheme ;
    dct:modified "2025-07-29" ;
    skos:definition "Informatie over de domeinen waarin standaarden kunnen worden toegepast binnen de Vlaamse overheid"@nl ;
-   skos:prefLabel "StandaardDomein"@nl .
+   skos:prefLabel "Domein"@nl .
 
 <https://data.vlaanderen.be/id/concept/Domein/Omgeving>
    a skos:Concept ;
