@@ -1,0 +1,72 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT120> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT120"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 120 'Burgerlijke staat'."@nl.
+<https://data.vlaanderen.be/id/concept/IT120/10> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ongehuwd"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "10";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/20> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gehuwd"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "20";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/25> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nietverklaard huwelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het huwelijk is nietigverklaard."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "25";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/26> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Putatief huwelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "26";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/30> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weduwnaar of weduwe"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Huwelijkspartner is overleden."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "30";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/40> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Huwelijk is ontbonden door scheiding."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "40";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/41> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Huwelijk is ontbonden door uitspreken van echtscheiding met toepassing van de wet van 30 juni 1994."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "41";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/50> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden van tafel, bed, goederen"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "50";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/51> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden van tafel, bed, goederen"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "51";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/60> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijzondere wijze ontbonden huwelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "60";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/80> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Partnerschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "80";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/81> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Be�indiging  partnerschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "81";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.
+<https://data.vlaanderen.be/id/concept/IT120/90> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbepaald"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "90";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120>.

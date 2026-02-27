@@ -1,0 +1,113 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT141> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT141"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 141 'Gezinslid'."@nl.
+<https://data.vlaanderen.be/id/concept/IT141/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Alleenstaande"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Alleenstaande die tevens de referentiepersoon is van het gezin."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "01";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/02> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Echtgenoot / Echtgenote"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "02";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/03> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoon / Dochter"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Zoon of dochter"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "03";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/04> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoonzoon / Schoondochter"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "04";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/05> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleinzoon / Kleinkind"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "05";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/06> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vader / Moeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "06";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/07> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoonvader / Schoonmoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "07";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/08> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grootvader / Grootmoeder"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "08";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/09> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Broer / Zuster"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "09";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/10> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schoonbroer / Schoonzuster"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "10";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/11> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verwant / Verwante"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "11";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/12> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet verwant"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "12";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/13> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stiefzoon / Stiefdochter"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "13";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/14> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Achterkleinzoon / Achterkleindochter"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "14";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/15> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oom / Tante"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "15";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/16> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neef / Nicht (3de graad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "16";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/17> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Neef / Nicht (4de graad)"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "17";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/20> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gemeenschappen / Tehuizen"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "20";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/21> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Partner"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Partnerschap geregistreerd in het buitenland, en in Belgi� werd erkend."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "21";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/22> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wettelijk samenwonende"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Vorm van samenleven van twee personen die een verklaring van wettelijke samenwoning hebben afgelegd voor de ambtenaar van de burgerlijke stand van hun gemeenschappelijk woonplaats, met toepassing van de wet van 23 november 1998 (B.S. 12 januari 1999), die niet gelijkgesteld wordt met een huwelijk. IT123 bevat hierover meer informatie."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "22";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
+<https://data.vlaanderen.be/id/concept/IT141/23> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Meemoederschap"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Meemoederschap beschrijft de situatie waarin er een juridische afstamming bestaat ten opzichte van de partner of de echtgenote die heeft meegewerkt aan het project van de voortplanting in toepassing van de wet van 5 mei 2014 (B.S. van 7 juli 2014, in werking getreden op 1 januari 2015."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "23";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>.
