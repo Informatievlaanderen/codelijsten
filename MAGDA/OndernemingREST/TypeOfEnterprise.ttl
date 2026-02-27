@@ -1,0 +1,21 @@
+<https://data.vlaanderen.be/id/conceptscheme/TypeOfEnterprise> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst Type Entiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Type entiteiten binnen de Kruispuntbank van Ondernemingen (KBO)."@nl.
+<https://data.vlaanderen.be/id/concept/TypeOfEnterprise/0> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbekend"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het type entiteit is onbekend bij de Kruispuntbank van Ondernemingen (KBO)."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "0";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/TypeOfEnterprise>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/TypeOfEnterprise>.
+<https://data.vlaanderen.be/id/concept/TypeOfEnterprise/1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Natuurlijk Persoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het type entiteit is een natuurlijk persoon."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "1";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/TypeOfEnterprise>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/TypeOfEnterprise>.
+<https://data.vlaanderen.be/id/concept/TypeOfEnterprise/2> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rechtspersoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het type entiteit is een rechtspersoon zoals een vennootschap, VZW, NV, BV, of organisaties zonder rechtspersoon."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "2";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/TypeOfEnterprise>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/TypeOfEnterprise>.

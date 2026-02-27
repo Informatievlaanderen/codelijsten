@@ -1,0 +1,21 @@
+<https://data.vlaanderen.be/id/conceptscheme/EntityContact> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Contact type"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het soort contactgegevens van de entiteit."@nl.
+<https://data.vlaanderen.be/id/concept/EntityContact/BRA> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijkantoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De contactgegevens is van een bijkantoor van de entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "BRA";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/EntityContact>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/EntityContact>.
+<https://data.vlaanderen.be/id/concept/EntityContact/ENT> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderneming"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De contactgegevens is van de hoofdzetel van de entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "ENT";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/EntityContact>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/EntityContact>.
+<https://data.vlaanderen.be/id/concept/EntityContact/EST> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vestigingseenheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De contactgegevens is van een vestigingseenheid van de entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "EST";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/EntityContact>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/EntityContact>.

@@ -1,0 +1,209 @@
+<https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rechtstoestand"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De rechtstoestand van de entiteit."@nl.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/000> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Normale toestand"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De entiteit bevindt zich in een normale rechtstoestand."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "000";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/001> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Juridische oprichting"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "001";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/002> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verlenging"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "002";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/003> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vervanging van het ondernemingsnummer"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het ondernemingsnummer werd vervangen."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "003";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/006> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopzetting wegens vervanging van het ondernemingsnummer"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "006";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/010> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontbinding van rechtswege"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "010";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/011> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Activiteitstopzetting in Belgi� (buitenlandse entiteit)"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De activiteiten in Belgie werden topgezet door een buitenlandse entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "011";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/012> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrijwillige ontbinding � vereffening"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De entiteit is vrijwillig ontbonden."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "012";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/013> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerechtelijke ontbinding of nietigheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De entiteit is gedwongen ontbonden via een gerechtelijke procedure."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "013";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/014> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluiting van vereffening"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "014";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/015> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopzetting entiteit zonder rechtspersoonlijkheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "015";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/016> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopzetting activiteit entiteit natuurlijk persoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "016";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/017> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overdracht geregistreerde entiteit natuurlijk persoon"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "017";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/018> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopzetting in bekendmaking"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "018";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/019> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopzetting van een EDRL of niet-EU entiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "019";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/020> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vereniging van aandelen in ��n hand"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "020";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/021> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fusie door overneming"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "021";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/022> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fusie door oprichting van een nieuwe entiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "022";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/023> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Splitsing"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "023";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/024> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Splitsing door overneming"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "024";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/025> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Splitsing door oprichting van nieuwe entiteiten"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "025";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/026> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gemengde splitsing"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "026";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/030> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerechtelijk akkoord voor faling"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "030";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/031> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerechtelijk akkoord na faling"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "031";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/040> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige opschorting van betaling"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "040";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/041> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Definitieve opschorting van betaling"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "041";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/042> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herroeping van de opschorting"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "042";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/043> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Einde van de opschorting"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "043";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/048> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Opening faillissement met verschoonbaarheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "048";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/049> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Opening faillissement met niet-verschoonbaarheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "049";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/050> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Opening faillissement"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "050";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/051> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluiting faillissement met verschoonbaarheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "051";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/052> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluiting faillissement met niet-verschoonbaarheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "052";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/053> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sluiting faillissement"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "053";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/090> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwe statuten"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "090";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/091> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Opschorting (gerechtelijke reorganisatie)"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "091";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/100> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bekendmaking van de entiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "100";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/111> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Doorhaling wegens stopzetting in een EER-register"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "111";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/112> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Heropening van de vereffening"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "112";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.
+<https://data.vlaanderen.be/id/concept/JuridicalSituation/999> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geannuleerd dossier"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier van de entiteit is geannuleerd in de Kruispuntbank van Ondernemingen (KBO)."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "999";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/JuridicalSituation>.

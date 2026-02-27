@@ -1,0 +1,27 @@
+<https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Adrestype"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het soort adres van de entiteit."@nl.
+<https://data.vlaanderen.be/id/concept/TypeOfAddress/ABBR> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijkantoor"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het adres is van een bijkantoor van de entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "ABBR";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>.
+<https://data.vlaanderen.be/id/concept/TypeOfAddress/REGO> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderneming"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het adres is van de hoofdzetel van de entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "REGO";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>.
+<https://data.vlaanderen.be/id/concept/TypeOfAddress/BAET> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vestigingseenheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het adres is van een vestigingseenheid van de entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "BAET";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>.
+<https://data.vlaanderen.be/id/concept/TypeOfAddress/OBAD> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oudste active vestiginseenheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het adres is van de oudste actieve vestigingseenheid van de entiteit."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "OBAD";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/TypeOfAddress>.
