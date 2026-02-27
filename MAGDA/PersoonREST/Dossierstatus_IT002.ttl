@@ -1,3 +1,6 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT002> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT002"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 002 'Referentiedossier'."@nl.
 <https://data.vlaanderen.be/id/concept/IT002/00> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Ongeldige rechtsvaardigheid"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Rechtvaardiging is verworpen."@nl;
