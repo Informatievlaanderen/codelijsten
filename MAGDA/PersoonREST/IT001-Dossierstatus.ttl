@@ -1,0 +1,78 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT001 Dossierstatus types"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de dossierstatus types in Informatie Type 001 'Gemeente van verblijf'."@nl.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/00992> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering naar het buitenland"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon is afgevoerd naar het buitenland."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "00992";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/992> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering naar het buitenland"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon is afgevoerd naar het buitenland."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "992";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99990> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overleden"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon is overleden."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99990";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99991> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering van ambtswege (ambtsbehalve schrapping)"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het dossier is afgevoerd van ambtswege (ambtsbehalve schrapping)."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99991";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99992> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering van ambtswege in het buitenland"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het dossier is afgevoerd van ambtswege in het buitenland."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99992";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99993> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schrapping - einde functies"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het dossier van de persoon is geschrapt omdat het niet meer van toepassing is."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99993";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geannuleerd dossier"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Het dossier van de persoon is geannuleerd."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99995> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrijgesteld van inschrijving"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon is vrijgesteld van inschrijving."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99995";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99996> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afwezig verklaard"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon is afwezig verklaard."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99996";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99997> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering - verlies van het recht op verblijf"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon verloor het recht op verblijf."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99997";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99998> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering - geen recht op inschrijving"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon heeft geen recht op inschrijving."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99998";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/21099> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst vreemdelingenzaken"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "De persoon is gecollecteerd door de Dienst Vreemdelingenzaken in het wachtregister."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "21099";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/conceptscheme/IT001> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT001"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 001 'Gemeente van verblijf'."@nl.
