@@ -1,36 +1,40 @@
 <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT141 Woonvorm"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van woonvormen uit Informatie Type 141 'Gezinslid'."@nl.
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van woonvormen uit Informatie Type 141 'Gezinslid'."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Woonvorm".
+<https://data.vlaanderen.be/id/conceptscheme/IT141> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT141"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 141 'Gezinslid'."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "IT141".
 <https://data.vlaanderen.be/id/concept/IT141/Woonvorm/00> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewone gezinssamenstelling"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Normale gezinssamenstelling binnen Belgie, of een gezin in het buitenland."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "00";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
+    <http://www.w3.org/2004/02/skos/core#notation> "00".
 <https://data.vlaanderen.be/id/concept/IT141/Woonvorm/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Zorgwonen (Vlaams Gewest)"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Zorgwonen in het Vlaams Gewest is het cre�ren van een kleinere woongelegenheid in of bij een bestaande woning zodat maximaal twee oudere of hulpbehoevende personen kunnen inwonen. Om een zorgwoning te cre�ren moet de eigendom, of ten minste de blote eigendom van de hoofd- en de ondergeschikte wooneenheid aan dezelfde eigenaar toebehoren."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "01";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
+    <http://www.w3.org/2004/02/skos/core#notation> "01".
 <https://data.vlaanderen.be/id/concept/IT141/Woonvorm/02> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectief wonen (Waals Gewest)"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Het gezin verblijft in een woning in het Waals gewest met verschillende wooneenheden waarbij ze hetzelfde huisnummer delen."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "02";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
+    <http://www.w3.org/2004/02/skos/core#notation> "02".
 <https://data.vlaanderen.be/id/concept/IT141/Woonvorm/03> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectief wonen (Brussels Gewest)"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Het gezin verblijft in een woning in het Brussels gewest met verschillende wooneenheden waarbij ze hetzelfde huisnummer delen."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "03";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
+    <http://www.w3.org/2004/02/skos/core#notation> "03".
 <https://data.vlaanderen.be/id/concept/IT141/Woonvorm/05> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijdelijke opvang"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Gezin dat tijdelijk is opgevangen bij een pleeggezin die een deel van hun woning afstaan als tijdelijk verblijf voor het opgevangen gezin."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "05";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>.
-<https://data.vlaanderen.be/id/conceptscheme/IT141> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT141"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 141 'Gezinslid'."@nl.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Woonvorm>;
+    <http://www.w3.org/2004/02/skos/core#notation> "05".

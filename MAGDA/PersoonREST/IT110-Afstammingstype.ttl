@@ -1,176 +1,180 @@
 <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstammingstype"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de afstamming types in Informatie Type 110 'Afstamming'."@nl.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/00> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wettig kind"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "00";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewettigd kind"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "01";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/02> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet erkend natuurlijk kind"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "02";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/03> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erkend natuurlijk kind"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "03";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/04> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geadopteerd kind"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "04";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/05> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewettigd kind ingevolgde adoptie"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "05";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/06> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vondeling"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "06";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/07> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Natuurlijk kind ingevolge ontkenning"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "07";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/08> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbekende afstamming"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "08";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/09> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbepaalde afstamming"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "09";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/10> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kind geboren uit het huwelijk"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "10";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/11> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde met erkenning door de vader bij de geboorte"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "11";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/12> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde (vermelding in de akte van geboorte)"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "12";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/13> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde door erkenning"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "13";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/14> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Adoptie"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "14";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/15> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Volle adoptie"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "15";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/16> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vondeling"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "16";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/17> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde ingevolge de nietigverklaring van de afstamming van vaderszijde"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "17";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/18> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbekende afstamming"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "18";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/19> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbepaalde afstamming"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "19";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/20> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van vaderszijde door erkenning"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "20";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/21> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moeders- en/of vaderszijde door vonnis"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "21";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/22> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van vaderszijde door nietigverklaring van de afstamming van moederszijde"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "22";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/23> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nietigverklaring van de afstamming van moeders- en/of vaderszijde"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "23";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/24> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herroeping adoptie"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "24";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/25> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kind geboren uit het huwelijk van twee vrouwen"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "25";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/26> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde met erkenning van de meemoeder bij de geboort"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "26";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/27> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van meemoederszijde door erkenning"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "27";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/28> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van meemoederszijde en/of moederszijde door vonnis"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "28";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/29> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde door nietigverklaring van de afstamming van meemoederszijde"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "29";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/30> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van vaderszijde door nietigverklaring van de afstamming van meemoederszijde"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "30";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/31> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herziening adoptie"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "31";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/40> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming op verklaring (Oekra�ne)"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
-<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/41> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming op verklaring (Oekra�ne)"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "41";
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>.
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de afstamming types in Informatie Type 110 'Afstamming'."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Afstammingstype".
 <https://data.vlaanderen.be/id/conceptscheme/IT110> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT110"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 110 'Afstamming'."@nl.
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 110 'Afstamming'."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "IT110".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/00> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wettig kind"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "00".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewettigd kind"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "01".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/02> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet erkend natuurlijk kind"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "02".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/03> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erkend natuurlijk kind"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "03".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/04> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geadopteerd kind"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "04".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/05> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewettigd kind ingevolgde adoptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "05".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/06> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vondeling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "06".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/07> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Natuurlijk kind ingevolge ontkenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "07".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/08> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbekende afstamming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "08".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/09> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbepaalde afstamming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "09".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/10> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kind geboren uit het huwelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "10".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/11> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde met erkenning door de vader bij de geboorte"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "11".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/12> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde (vermelding in de akte van geboorte)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "12".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/13> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde door erkenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "13".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/14> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Adoptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "14".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/15> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Volle adoptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "15".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/16> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vondeling"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "16".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/17> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde ingevolge de nietigverklaring van de afstamming van vaderszijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "17".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/18> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbekende afstamming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "18".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/19> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onbepaalde afstamming"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "19".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/20> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van vaderszijde door erkenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "20".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/21> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moeders- en/of vaderszijde door vonnis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "21".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/22> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van vaderszijde door nietigverklaring van de afstamming van moederszijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "22".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/23> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nietigverklaring van de afstamming van moeders- en/of vaderszijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "23".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/24> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herroeping adoptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "24".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/25> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kind geboren uit het huwelijk van twee vrouwen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "25".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/26> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde met erkenning van de meemoeder bij de geboort"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "26".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/27> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van meemoederszijde door erkenning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "27".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/28> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van meemoederszijde en/of moederszijde door vonnis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "28".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/29> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van moederszijde door nietigverklaring van de afstamming van meemoederszijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "29".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/30> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming van vaderszijde door nietigverklaring van de afstamming van meemoederszijde"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "30".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/31> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Herziening adoptie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "31".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/40> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming op verklaring (Oekra�ne)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40".
+<https://data.vlaanderen.be/id/concept/IT110/Afstammingstype/41> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstamming op verklaring (Oekra�ne)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype>;
+    <http://www.w3.org/2004/02/skos/core#notation> "41".

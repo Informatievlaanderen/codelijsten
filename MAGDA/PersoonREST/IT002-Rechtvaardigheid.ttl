@@ -1,72 +1,76 @@
 <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Rechtvaardigheid"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van rechtvaardigingen voor dossierannulaties uit Informatie Type 002 'Referentiedossier'."@nl.
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van rechtvaardigingen voor dossierannulaties uit Informatie Type 002 'Referentiedossier'."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Rechtvaardigheid".
+<https://data.vlaanderen.be/id/conceptscheme/IT002> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT002"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 002 'Referentiedossier'."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "IT002".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/00> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Ongeldige rechtsvaardigheid"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Rechtvaardiging is verworpen."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "00";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "00".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Voldoet niet aan inschrijvingsvoorwaarden"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Het dossier wordt gecre�erd terwijl de persoon niet voldoet aan de inschrijvingsvoorwaarden."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "01";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "01".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/02> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Fout in geboortedatum of geslacht"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Fout in de geboortedatum of betreffende het geslacht bij de verzameling (geblokkeerd 07.04.2020 � zie codes 08, 09 of 10)"@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "02";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "02".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/03> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Dubbele INSZ"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Er bestaan twee identificatienummers voor dezelfde persoon."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "03";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "03".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/04> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Programmafout"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Verzameling van meerdere dossiers per vergissing (programmafout)."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "04";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "04".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/05> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geslachtsverandering"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "De persoon veranderde van geslacht waarvoor er een nieuw dossier is aangemaakt of een bestaand dossier is hernomen."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "05";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "05".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/06> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Incorrecte identiteit"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "De indentiteit is incorrect ingegeven."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "06";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "06".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/07> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopzetting schijnrelatie"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Stopzetting procedure schijnrelatie."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "07";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "07".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/08> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geboortedatum fout verzameld"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Fout in de geboortedatum bij de verzameling."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "08";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "08".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/09> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geslacht fout verzameld"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Fout betreffende het geslacht bij de verzameling."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "09";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "09".
 <https://data.vlaanderen.be/id/concept/IT002/Rechtvaardigheid/10> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geslacht en geboortedatum fout verzameld"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Fout in de geboortedatum en betreffende het geslacht bij de verzameling."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "10";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>.
-<https://data.vlaanderen.be/id/conceptscheme/IT002> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT002"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 002 'Referentiedossier'."@nl.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT002/Rechtvaardigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "10".

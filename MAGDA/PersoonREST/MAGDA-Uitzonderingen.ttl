@@ -1,162 +1,166 @@
 <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst MAGDA Uitzonderingen"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van alle uitzonderingen van de MAGDA diensten."@nl.
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van alle uitzonderingen van de MAGDA diensten."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Uitzonderingen".
+<https://data.vlaanderen.be/id/conceptscheme/MAGDA> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "MAGDA codelijsten"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Alle codelijsten die specifiek zijn voor de MAGDA diensten."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "MAGDA".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/13202> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet opvraagbaar"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Gegevens niet opvraagbaar, geen persoonsdossier geregistreerd."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "13202";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "13202".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/16018> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Gegevens uit externe bron zijn niet beschikbaar."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "16018";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "16018".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/20002> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Ongeldig INSZ formaat"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "INSZ in de vraag heeft een ongeldige structuur."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "20002";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "20002".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/25002> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Taal niet gevonden"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Omschrijving in de gevraagde taal niet gevonden."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "25002";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "25002".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/30001> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geen gegevens"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Geen gegevens gevonden voor de vraag."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "30001";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "30001".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/30004> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuwe INSZ"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Persoon heeft een nieuw INSZ verkregen."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "30004";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "30004".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/30042> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Meerdere voorkomens"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Meerdere voorkomens aanwezig bij de bron, slechts 1 voorkomen aanwezig in het Magda antwoord."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "30042";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "30042".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40001> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geen geldige wettelijke context"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Er werd geen geldige wettelijke context opgegeven."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40001";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40001".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40003> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geen inschrijving"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Geen inschrijving aanwezig voor het INSZ in de vraag."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40003";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40003".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40006> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorisatiefout"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Fout in autorisatie."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40006";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40006".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40019> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijwerking niet opnieuw uitvoeren"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Gelieve deze bijwerking niet opnieuw uit te voeren, maar om contact op te nemen met de diensten van het Rijksregister."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40019";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40019".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40101> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beheerd"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Het opgegeven INSZ wordt momenteel niet beheerd door het Rijksregister."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40101";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40101".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40102> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geen gegevensgroepen opgegeven"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Er werden geen gegevensgroepen opgegeven in de vraag. "@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40102";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40102".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40140> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "INSZ niet gekend in wettelijke context"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "INSZ niet gekend voor de klant in de juiste wettelijke context."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40140";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40140".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40200> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "INSZ is Bisnummer"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "INSZ is een Bisnummer."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40200";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40200".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40201> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Opvraging overlijden niet toegestaan"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Opvragen indicator 'overlijden' is niet toegestaan."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40201";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40201".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/40206> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Toestemming ontbreekt"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Er is geen toestemming om een van de gevraagde informatietypes op te halen."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "40206";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "40206".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/45016> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "INSZ anomalie"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Anomalie gevonden in INSZ."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "45016";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "45016".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/48220> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Foutieve informatie burgelijke staat"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "We hebben een fout van de bron ontvangen voor element Burgerlijke Staten waardoor we deze gegevens niet kunnen doorgeven indien u hier toegang toe had."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "48220";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "48220".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/48221> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontbrekende informatie burgerlijke staat"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "We hebben niet alle informatie ontvangen die nodig is. Hierdoor ontbreekt er een element in het het gegevensblok Burgerlijke Staat."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "48221";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "48221".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/48222> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgisch adres zonder gemeente"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Een Belgische adres zonder gemeente werd gedetecteerd."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "48222";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "48222".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/48223> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Referentieadres toegevoegd"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Referentieadres aanduiding zonder adres aanwezig in de authentieke bron."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "48223";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "48223".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/48224> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Vervaldatum referentieadres toegevoegd"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Vervaldatum toegevoegd op basis van volgende verschijning voor referentieadres."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "48224";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "48224".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/60003> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Fout formaat in vraag"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Fout formaat in de vraag naar de bron toe."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "60003";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "60003".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/60009> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Technisch probleem"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Er heeft zich een technisch probleem voorgedaan."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "60009";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "60009".
 <https://data.vlaanderen.be/id/concept/MAGDA/Uitzondering/60013> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Fout in brontoegang"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Fout in toegang naar de bron."@nl;
-    <http://www.w3.org/2004/02/skos/core#notation> "60013";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>.
-<https://data.vlaanderen.be/id/conceptscheme/MAGDA> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "MAGDA codelijsten"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Alle codelijsten die specifiek zijn voor de MAGDA diensten."@nl.
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering>;
+    <http://www.w3.org/2004/02/skos/core#notation> "60013".

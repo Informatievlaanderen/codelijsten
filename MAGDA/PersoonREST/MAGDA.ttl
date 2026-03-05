@@ -1,0 +1,16 @@
+<https://data.vlaanderen.be/id/conceptscheme/MAGDA/Omstandigheid> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst MAGDA Omstandigheden"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van alle omstandigheden van de MAGDA diensten."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Omstandigheid".
+<https://data.vlaanderen.be/id/conceptscheme/MAGDA> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "MAGDA codelijsten"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Alle codelijsten die specifiek zijn voor de MAGDA diensten."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "MAGDA".
+<https://data.vlaanderen.be/id/conceptscheme/MAGDA/Uitzondering> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst MAGDA Uitzonderingen"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van alle uitzonderingen van de MAGDA diensten."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/MAGDA>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/MAGDA>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Uitzonderingen".

@@ -1,6 +1,10 @@
 <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT001 Dossierstatus types"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de dossierstatus types in Informatie Type 001 'Gemeente van verblijf'."@nl.
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de dossierstatus types in Informatie Type 001 'Gemeente van verblijf'."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Dossierstatus".
 <https://data.vlaanderen.be/id/conceptscheme/IT001> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT001"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 001 'Gemeente van verblijf'."@nl.
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 001 'Gemeente van verblijf'."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "IT001".
