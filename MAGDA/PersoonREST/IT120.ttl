@@ -1,0 +1,6 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Burgerlijke Staat types"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de burgerlijke staat types in Informatie Type 120 'Burgerlijke Staat'."@nl.
+<https://data.vlaanderen.be/id/conceptscheme/IT120> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT120"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 120 'Burgerlijke staat'."@nl.

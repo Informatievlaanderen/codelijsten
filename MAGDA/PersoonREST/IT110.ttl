@@ -1,0 +1,6 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT110/Afstammingstype> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afstammingstype"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de afstamming types in Informatie Type 110 'Afstamming'."@nl.
+<https://data.vlaanderen.be/id/conceptscheme/IT110> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT110"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 110 'Afstamming'."@nl.

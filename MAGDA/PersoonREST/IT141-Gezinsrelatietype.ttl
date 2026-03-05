@@ -1,6 +1,6 @@
 <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT141"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 141 'Gezinslid'."@nl.
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT141 Gezinsrelatietype"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van gezinsrelaties uit Informatie Type 141 'Gezinslid'."@nl.
 <https://data.vlaanderen.be/id/concept/IT141/Gezinsrelatietype/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Alleenstaande"@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "01";
@@ -106,3 +106,6 @@
     <http://www.w3.org/2004/02/skos/core#notation> "23";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>.
+<https://data.vlaanderen.be/id/conceptscheme/IT141> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT141"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 141 'Gezinslid'."@nl.
