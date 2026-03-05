@@ -3,7 +3,6 @@
     <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 141 'Gezinslid'."@nl.
 <https://data.vlaanderen.be/id/concept/IT141/Gezinsrelatietype/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Alleenstaande"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Alleenstaande die tevens de referentiepersoon is van het gezin."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "01";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>.
@@ -94,19 +93,16 @@
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>.
 <https://data.vlaanderen.be/id/concept/IT141/Gezinsrelatietype/21> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Partner"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Partnerschap geregistreerd in het buitenland, en in Belgi� werd erkend."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "21";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>.
 <https://data.vlaanderen.be/id/concept/IT141/Gezinsrelatietype/22> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Wettelijk samenwonende"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Vorm van samenleven van twee personen die een verklaring van wettelijke samenwoning hebben afgelegd voor de ambtenaar van de burgerlijke stand van hun gemeenschappelijk woonplaats, met toepassing van de wet van 23 november 1998 (B.S. 12 januari 1999), die niet gelijkgesteld wordt met een huwelijk. IT123 bevat hierover meer informatie."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "22";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>.
 <https://data.vlaanderen.be/id/concept/IT141/Gezinsrelatietype/23> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Meemoederschap"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Meemoederschap beschrijft de situatie waarin er een juridische afstamming bestaat ten opzichte van de partner of de echtgenote die heeft meegewerkt aan het project van de voortplanting in toepassing van de wet van 5 mei 2014 (B.S. van 7 juli 2014, in werking getreden op 1 januari 2015."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "23";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT141/Gezinsrelatietype>.

@@ -2,13 +2,13 @@
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT001 Dossierstatus types"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de dossierstatus types in Informatie Type 001 'Gemeente van verblijf'."@nl.
 <https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/00992> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering naar het buitenland"@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering van ambtswege in het buitenland"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "De persoon is afgevoerd naar het buitenland."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "00992";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
 <https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/992> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering naar het buitenland"@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Afvoering van ambtswege in het buitenland"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "De persoon is afgevoerd naar het buitenland."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "992";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
@@ -41,6 +41,72 @@
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geannuleerd dossier"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Het dossier van de persoon is geannuleerd."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "99994";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/00> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verworpen rechtsvaardiging"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd met verworpen rechtvaardiging."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/00";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/01> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voldoet niet aan inschrijvingsvoorwaarden"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd omdat de persoon niet voldoet aan de inschrijvingsvoorwaarden."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/01";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/02> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fout in geboortedatum of geslacht"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd door fout in de geboortedatum of betreffende het geslacht bij de verzameling (geblokkeerd 07.04.2020 � zie codes 08, 09 of 10)"@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/02";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/03> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dubbele INSZ"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd omdat er bestaan twee identificatienummers voor dezelfde persoon."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/03";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/04> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Programmafout"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd door een verzameling van meerdere dossiers per vergissing (programmafout)."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/04";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/05> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geslachtsverandering"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd omdat de persoon veranderde van geslacht waarvoor er een nieuw dossier is aangemaakt of een bestaand dossier is hernomen."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/05";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/06> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Incorrecte identiteit"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd omdat de indentiteit is incorrect ingegeven."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/06";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/07> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopzetting schijnrelatie"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd door stopzetting procedure schijnrelatie."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/07";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/08> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geboortedatum fout verzameld"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd door fout in de geboortedatum bij de verzameling."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/08";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/09> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geslacht fout verzameld"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd door fout betreffende het geslacht bij de verzameling."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/09";
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
+<https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99994/10> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geslacht en geboortedatum fout verzameld"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Dossier geannuleerd door fout in de geboortedatum en betreffende het geslacht bij de verzameling."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "99994/10";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT001/Dossierstatus>.
 <https://data.vlaanderen.be/id/concept/IT001/Dossierstatus/99995> a <http://www.w3.org/2004/02/skos/core#Concept>;

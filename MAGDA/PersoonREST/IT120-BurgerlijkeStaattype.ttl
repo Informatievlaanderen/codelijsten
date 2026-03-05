@@ -12,8 +12,7 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
 <https://data.vlaanderen.be/id/concept/IT120/BurgerlijkeStaattype/25> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nietverklaard huwelijk"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Het huwelijk is nietigverklaard."@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Nietigverklaring van het huwelijk"@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "25";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
@@ -23,35 +22,32 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
 <https://data.vlaanderen.be/id/concept/IT120/BurgerlijkeStaattype/30> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weduwnaar of weduwe"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Huwelijkspartner is overleden."@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Weduwnaar (weduwe)"@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "30";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
 <https://data.vlaanderen.be/id/concept/IT120/BurgerlijkeStaattype/40> a <http://www.w3.org/2004/02/skos/core#Concept>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Huwelijk is ontbonden door scheiding."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "40";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
 <https://data.vlaanderen.be/id/concept/IT120/BurgerlijkeStaattype/41> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden"@nl;
-    <http://www.w3.org/2004/02/skos/core#definition> "Huwelijk is ontbonden door uitspreken van echtscheiding met toepassing van de wet van 30 juni 1994."@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Echtscheiding uitgesproken met toepassing van de wet van 30 juni 1994"@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "41";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
 <https://data.vlaanderen.be/id/concept/IT120/BurgerlijkeStaattype/50> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden van tafel, bed, goederen"@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Scheiding van tafel en bed en van goederen"@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "50";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
 <https://data.vlaanderen.be/id/concept/IT120/BurgerlijkeStaattype/51> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gescheiden van tafel, bed, goederen"@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "scheiding van tafel en bed en van goederen uitgesproken met toepassing van de wet van 30 juni 1994"@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "51";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
 <https://data.vlaanderen.be/id/concept/IT120/BurgerlijkeStaattype/60> a <http://www.w3.org/2004/02/skos/core#Concept>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bijzondere wijze ontbonden huwelijk"@nl;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontbinding van het huwelijk op een bijzondere wijze"@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "60";
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT120/BurgerlijkeStaattype>.
