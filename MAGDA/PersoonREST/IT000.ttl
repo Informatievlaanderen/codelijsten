@@ -1,0 +1,10 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT000/Geslacht> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT000 Geslacht"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van geslacht in Informatie Type 001 'Identificatienummer'."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT000>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT000>;
+    <http://www.w3.org/2004/02/skos/core#notation> "Geslacht".
+<https://data.vlaanderen.be/id/conceptscheme/IT000> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT000"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 000 'Identificatienummer'."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "IT000".
