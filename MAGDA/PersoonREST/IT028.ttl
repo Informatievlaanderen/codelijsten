@@ -1,0 +1,10 @@
+<https://data.vlaanderen.be/id/conceptscheme/IT028/ProcedureType> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Procedure types"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de procedure types in Informatie Type 028 'Voorlopige Inschrijving'."@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT028>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT028>;
+    <http://www.w3.org/2004/02/skos/core#notation> "ProcedureType".
+<https://data.vlaanderen.be/id/conceptscheme/IT028> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT028"@nl;
+    <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 028 'Voorlopige Inschrijving'."@nl;
+    <http://www.w3.org/2004/02/skos/core#notation> "IT028".
