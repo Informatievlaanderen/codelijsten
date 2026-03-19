@@ -8,3 +8,63 @@
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT026"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 026 'Tijdelijke Afwezigheid'."@nl;
     <http://www.w3.org/2004/02/skos/core#notation> "IT026".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/10> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijdelijke afwezigheid"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "10".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/11> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Therapie en/of medische hulpverlening"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "11".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/12> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hechtenis"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "12".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/13> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geplaatst in instelling (minderjarige)"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "13".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/14> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buitenlandse opdracht - Defensie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "14".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/15> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buitenlandse opdracht - Politie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "15".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/16> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienstplicht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "16".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/17> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buitenlandse opdracht - Ambtenaar"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "17".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/18> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Buitenlandse opdracht - Co�peratie"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "18".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/19> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Landurige verdwijning"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "19".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/20> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beroepsopdracht"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "20".
+<https://data.vlaanderen.be/id/concept/IT026/RedenAfwezigheid/21> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Studieredenen"@nl;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid>;
+    <http://www.w3.org/2004/02/skos/core#notation> "21".

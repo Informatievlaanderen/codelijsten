@@ -1,9 +1,9 @@
-<https://data.vlaanderen.be/id/conceptscheme/IT026/ProcedureType> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Procedure types"@nl;
+<https://data.vlaanderen.be/id/conceptscheme/IT026/RedenAfwezigheid> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reden afwezigheid"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van de redenen om tijdelijk afwezig te zijn in Informatie Type 026 'Tijdelijke Afwezigheid'."@nl;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/IT026>;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/IT026>;
-    <http://www.w3.org/2004/02/skos/core#notation> "ProcedureType".
+    <http://www.w3.org/2004/02/skos/core#notation> "RedenAfwezigheid".
 <https://data.vlaanderen.be/id/conceptscheme/IT026> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst IT026"@nl;
     <http://www.w3.org/2004/02/skos/core#definition> "Codelijst van Informatie Type 026 'Tijdelijke Afwezigheid'."@nl;
